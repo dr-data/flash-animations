@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Legacy Flash Simulation</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</head>
+<body>
+  <main class="player-shell">
+    <header class="player-header">
+      <div>
+        <div class="player-header__top">
+          <a class="back-link" href="./">All legacy simulations</a>
+          <a class="back-link" href="../native/">Native ports</a>
+        </div>
+        <h1 id="title">Legacy simulation</h1>
+      </div>
+    </header>
+
+    <div id="player" class="player-frame" aria-live="polite"></div>
+    <p id="meta" class="player-meta"></p>
+  </main>
+
+  <script src="player.js"></script>
+</body>
+</html>
