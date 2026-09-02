@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Native HTML5 port of the AstroUNL Small Angle Approximation Demonstrator.">
+  <title>Small Angle Approximation Demonstrator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <a class="back-link" href="../">All native simulations</a>
+        <h1>Small Angle Approximation Demonstrator</h1>
+      </div>
+      <button id="resetButton" class="reset-button" type="button">Reset</button>
+    </header>
+
+    <section class="formula-card" aria-labelledby="formula-title">
+      <div>
+        <p class="section-kicker">Small angle approximation</p>
+        <h2 id="formula-title">Angular size depends on size and distance</h2>
+      </div>
+      <div class="formula" aria-live="polite">
+        <span>α = 206,265 ×</span>
+        <span class="fraction" aria-label="linear diameter divided by distance">
+          <span>linear diameter</span>
+          <span>distance</span>
+        </span>
+        <span>=</span>
+        <strong id="arcsecResult">10,313.3 arcsec</strong>
+      </div>
+    </section>
+
+    <section class="sim-grid">
+      <div class="visual-panel">
+        <div class="visual-heading">
+          <div>
+            <p class="section-kicker">Interactive geometry</p>
+            <h2>Drag the object closer or farther away</h2>
+          </div>
+          <div class="angle-readout">
+            <span>Angular size</span>
+            <strong id="friendlyAngle">2° 51′ 53″</strong>
+          </div>
+        </div>
+
+        <svg id="scene" class="scene" viewBox="0 0 900 360" role="img" aria-labelledby="sceneTitle sceneDesc">
+          <title id="sceneTitle">Small angle geometry</title>
+          <desc id="sceneDesc">An observer looks at a circular object. Two sight lines show the angle subtended by the object's diameter. Drag the object horizontally to change its distance.</desc>
+
+          <defs>
+            <linearGradient id="ballGradient" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#8292ff"></stop>
+              <stop offset="1" stop-color="#4059d8"></stop>
+            </linearGradient>
+            <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+              <feDropShadow dx="0" dy="7" stdDeviation="8" flood-opacity="0.16"></feDropShadow>
+            </filter>
+          </defs>
+
+          <line class="ground" x1="20" y1="286" x2="880" y2="286"></line>
+
+          <g id="observer" transform="translate(82 86)" aria-hidden="true">
+            <circle cx="40" cy="30" r="25" class="person-fill"></circle>
+            <path d="M40 58 C10 60 5 105 9 142 L22 214 M40 58 C70 60 75 105 71 142 L58 214 M10 112 L0 168 M70 112 L82 168" class="person-line"></path>
+            <circle id="eyeMarker" cx="52" cy="28" r="5" class="eye"></circle>
+          </g>
+
+          <g id="sightLines" aria-hidden="true">
+            <line id="upperLine" class="sight-line" x1="134" y1="114" x2="650" y2="84"></line>
+            <line id="lowerLine" class="sight-line" x1="134" y1="114" x2="650" y2="144"></line>
+            <path id="angleArc" class="angle-arc" d=""></path>
+            <text id="alphaLabel" class="alpha-label" x="205" y="103">α</text>
+          </g>
+
+          <g id="objectGroup" class="draggable-object" tabindex="0" role="slider" aria-label="Object distance" aria-valuemin="20" aria-valuemax="60" aria-valuenow="40" aria-valuetext="40 units" filter="url(#softShadow)">
+            <circle id="objectCircle" cx="650" cy="114" r="22" fill="url(#ballGradient)"></circle>
+            <circle id="objectHighlight" cx="642" cy="106" r="7" class="object-highlight"></circle>
+          </g>
+
+          <g class="distance-guide" aria-hidden="true">
+            <line id="distanceLine" x1="134" y1="320" x2="650" y2="320"></line>
+            <line x1="134" y1="309" x2="134" y2="331"></line>
+            <line id="distanceEndTick" x1="650" y1="309" x2="650" y2="331"></line>
+            <text id="distanceSvgLabel" x="392" y="348">40 units</text>
+          </g>
+        </svg>
+
+        <p class="drag-hint">Tip: drag the blue object, use the sliders, or focus the object and use the arrow keys.</p>
+      </div>
+
+      <aside class="controls-panel" aria-labelledby="controls-title">
+        <div class="controls-heading">
+          <p class="section-kicker">Controls</p>
+          <h2 id="controls-title">Change the geometry</h2>
+        </div>
+
+        <div class="control-group">
+          <div class="control-label-row">
+            <label for="distanceRange">Distance</label>
+            <div class="number-wrap">
+              <input id="distanceNumber" type="number" min="20" max="60" step="0.1" value="40" inputmode="decimal">
+              <span>units</span>
+            </div>
+          </div>
+          <input id="distanceRange" class="range" type="range" min="20" max="60" step="0.1" value="40">
+          <div class="range-scale"><span>20</span><span>60</span></div>
+        </div>
+
+        <div class="control-group">
+          <div class="control-label-row">
+            <label for="diameterRange">Diameter</label>
+            <div class="number-wrap">
+              <input id="diameterNumber" type="number" min="1" max="3" step="0.1" value="2" inputmode="decimal">
+              <span>units</span>
+            </div>
+          </div>
+          <input id="diameterRange" class="range" type="range" min="1" max="3" step="0.1" value="2">
+          <div class="range-scale"><span>1</span><span>3</span></div>
+        </div>
+
+        <div class="explanation-card">
+          <h3>What should you notice?</h3>
+          <p>If the physical diameter stays fixed, moving the object farther away makes its angular size smaller.</p>
+          <p>If the distance stays fixed, increasing the diameter makes its angular size larger.</p>
+        </div>
+
+        <div class="calculation-card" aria-live="polite">
+          <span>Current ratio</span>
+          <strong id="ratioResult">2 ÷ 40 = 0.0500</strong>
+          <small>The approximation is most accurate when this ratio is small.</small>
+        </div>
+      </aside>
+    </section>
+
+    <footer class="source-note">
+      <p>Native browser implementation based on the original AstroUNL Flash teaching model. The legacy FLA and SWF sources remain unchanged in the repository for reference.</p>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

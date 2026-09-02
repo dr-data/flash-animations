@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AstroUNL Native Web Simulations</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">Flash migration project</p>
+      <h1>AstroUNL Native Web Simulations</h1>
+      <p class="lede">Editable HTML, CSS, JavaScript and SVG replacements for the original Flash astronomy animations.</p>
+    </header>
+
+    <section aria-labelledby="available-title">
+      <div class="section-heading">
+        <h2 id="available-title">Native simulations</h2>
+        <p>Each port preserves the teaching model while replacing Flash runtime dependencies with browser native code.</p>
+      </div>
+
+      <div class="card-grid">
+        <a class="sim-card" href="small-angle-demo/">
+          <div class="sim-card__visual" aria-hidden="true">
+            <svg viewBox="0 0 320 160" role="img">
+              <circle cx="44" cy="80" r="8"></circle>
+              <circle cx="270" cy="80" r="28" class="accent"></circle>
+              <path d="M52 80 L270 52 M52 80 L270 108"></path>
+              <path d="M93 70 A42 42 0 0 1 93 90" class="arc"></path>
+              <text x="105" y="85">α</text>
+            </svg>
+          </div>
+          <div class="sim-card__body">
+            <p class="status">Native port 001</p>
+            <h3>Small Angle Approximation Demonstrator</h3>
+            <p>Explore how linear diameter and distance determine angular size.</p>
+            <span class="open-label">Open simulation</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="principles" aria-labelledby="principles-title">
+      <h2 id="principles-title">Migration principles</h2>
+      <div class="principle-grid">
+        <article>
+          <h3>Editable</h3>
+          <p>Scientific calculations, labels, controls and visuals live in readable source files.</p>
+        </article>
+        <article>
+          <h3>Browser native</h3>
+          <p>No Flash Player and no SWF wrapper are required for migrated simulations.</p>
+        </article>
+        <article>
+          <h3>Teaching first</h3>
+          <p>The interaction model stays close to the original while accessibility and responsive layout improve.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
