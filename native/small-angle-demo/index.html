@@ -62,10 +62,14 @@
 
           <line class="ground" x1="20" y1="286" x2="880" y2="286"></line>
 
-          <g id="observer" transform="translate(82 86)" aria-hidden="true">
-            <circle cx="40" cy="30" r="25" class="person-fill"></circle>
-            <path d="M40 58 C10 60 5 105 9 142 L22 214 M40 58 C70 60 75 105 71 142 L58 214 M10 112 L0 168 M70 112 L82 168" class="person-line"></path>
-            <circle id="eyeMarker" cx="52" cy="28" r="5" class="eye"></circle>
+          <g id="observer" transform="translate(77 98)" aria-hidden="true">
+            <ellipse cx="34" cy="92" rx="22" ry="4" class="observer-shadow"></ellipse>
+            <path class="observer-body" d="M18 88 L22 52 C22 38 28 28 40 24 C52 20 62 28 64 40 L66 88 Z"></path>
+            <path class="observer-neck" d="M36 28 L44 28 L46 24 L34 24 Z"></path>
+            <circle cx="48" cy="18" r="14" class="observer-head"></circle>
+            <circle cx="56" cy="16" r="2.2" class="observer-eye-white"></circle>
+            <circle id="eyeMarker" cx="57" cy="16" r="1.4" class="eye"></circle>
+            <path class="observer-arm" d="M58 42 C72 40 78 34 82 28"></path>
           </g>
 
           <g id="sightLines" aria-hidden="true">
