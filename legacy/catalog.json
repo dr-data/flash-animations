@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:25:46.953Z",
+  "generatedAt": "2026-09-02T04:26:32.394Z",
   "projectCount": 194,
   "projects": [
     {
@@ -9,14 +9,14 @@
         {
           "name": "aberrationDiagram001",
           "path": "/flashdev2/aberrationDiagram/aberrationDiagram001.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 350
         },
         {
           "name": "aberrationDiagram002",
           "path": "/flashdev2/aberrationDiagram/aberrationDiagram002.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 350
         }
       ]
     },
@@ -39,14 +39,14 @@
         {
           "name": "altAzDemo003",
           "path": "/flashdev2/altAzDemo/altAzDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 400
         },
         {
           "name": "altAzDemo005",
           "path": "/flashdev2/altAzDemo/altAzDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 510
         },
         {
           "name": "altAzDemo005-B",
@@ -63,8 +63,8 @@
         {
           "name": "altAzHint001",
           "path": "/flashdev2/altAzHint/altAzHint001.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 450
         }
       ]
     },
@@ -75,20 +75,20 @@
         {
           "name": "antipodesExplorer001",
           "path": "/flashdev2/antipodesExplorer/antipodesExplorer001.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 700
         },
         {
           "name": "antipodesExplorer002",
           "path": "/flashdev2/antipodesExplorer/antipodesExplorer002.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 720
         },
         {
           "name": "antipodesExplorer003",
           "path": "/flashdev2/antipodesExplorer/antipodesExplorer003.swf",
-          "width": 0,
-          "height": 0
+          "width": 760,
+          "height": 660
         },
         {
           "name": "antipodesExplorer003-B",
@@ -111,8 +111,8 @@
         {
           "name": "badStarPath001",
           "path": "/flashdev2/badStarPath/badStarPath001.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -123,14 +123,14 @@
         {
           "name": "badSunPath002",
           "path": "/flashdev2/badSunPath/badSunPath002.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 400
         },
         {
           "name": "badSunPath003",
           "path": "/flashdev2/badSunPath/badSunPath003.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 400
         }
       ]
     },
@@ -141,14 +141,14 @@
         {
           "name": "bbExplorer025",
           "path": "/flashdev2/bbExplorer/bbExplorer025.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 550
         },
         {
           "name": "bbExplorer026",
           "path": "/flashdev2/bbExplorer/bbExplorer026.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 550
         },
         {
           "name": "bbExplorer026-B",
@@ -171,8 +171,8 @@
         {
           "name": "bigDipper003",
           "path": "/flashdev2/bigDipper/bigDipper003.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 480
         },
         {
           "name": "bigDipper003-B",
@@ -189,14 +189,14 @@
         {
           "name": "binSys097",
           "path": "/flashdev2/binSys/binSys097.swf",
-          "width": 0,
-          "height": 0
+          "width": 817,
+          "height": 710
         },
         {
           "name": "binSys098",
           "path": "/flashdev2/binSys/binSys098.swf",
-          "width": 0,
-          "height": 0
+          "width": 817,
+          "height": 710
         },
         {
           "name": "binSys098-B",
@@ -219,8 +219,8 @@
         {
           "name": "binSysComponent005",
           "path": "/flashdev2/binSysComponent/binSysComponent005.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 600
         }
       ]
     },
@@ -231,8 +231,8 @@
         {
           "name": "bindingEnergyPlot002",
           "path": "/flashdev2/bindingEnergyPlot/bindingEnergyPlot002.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 350
         }
       ]
     },
@@ -243,8 +243,8 @@
         {
           "name": "blackbody003",
           "path": "/flashdev2/blackbody/blackbody003.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 460
         }
       ]
     },
@@ -255,44 +255,44 @@
         {
           "name": "celHorComp029",
           "path": "/flashdev2/celHorComp/celHorComp029.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 680
         },
         {
           "name": "celHorComp032",
           "path": "/flashdev2/celHorComp/celHorComp032.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 680
         },
         {
           "name": "celHorComp034",
           "path": "/flashdev2/celHorComp/celHorComp034.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp035",
           "path": "/flashdev2/celHorComp/celHorComp035.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp036",
           "path": "/flashdev2/celHorComp/celHorComp036.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp037",
           "path": "/flashdev2/celHorComp/celHorComp037.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp039",
           "path": "/flashdev2/celHorComp/celHorComp039.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp039-B",
@@ -321,20 +321,20 @@
         {
           "name": "celestialEquatorialDemo003",
           "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 450,
+          "height": 400
         },
         {
           "name": "celestialEquatorialDemo007",
           "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo007.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 510
         },
         {
           "name": "celestialEquatorialDemo008",
           "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo008.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 510
         },
         {
           "name": "celestialEquatorialDemo008-B",
@@ -351,8 +351,8 @@
         {
           "name": "celestialHorizon004",
           "path": "/flashdev2/celestialHorizon/celestialHorizon004.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 500
         }
       ]
     },
@@ -363,14 +363,14 @@
         {
           "name": "celestial_sphere101",
           "path": "/flashdev2/celestial_sphere/celestial_sphere101.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 400
         },
         {
           "name": "celestial_sphere140",
           "path": "/flashdev2/celestial_sphere/celestial_sphere140.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 400
         }
       ]
     },
@@ -381,26 +381,26 @@
         {
           "name": "centerOfMass006",
           "path": "/flashdev2/centerOfMass/centerOfMass006.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 370
         },
         {
           "name": "centerOfMass007",
           "path": "/flashdev2/centerOfMass/centerOfMass007.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 320
         },
         {
           "name": "centerOfMass008",
           "path": "/flashdev2/centerOfMass/centerOfMass008.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 370
         },
         {
           "name": "centerOfMass009",
           "path": "/flashdev2/centerOfMass/centerOfMass009.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 370
         }
       ]
     },
@@ -411,20 +411,20 @@
         {
           "name": "clusterFittingExplorer007",
           "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer007.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 550
         },
         {
           "name": "clusterFittingExplorer008",
           "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer008.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 550
         },
         {
           "name": "clusterFittingExplorer009",
           "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer009.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 550
         },
         {
           "name": "clusterFittingExplorer009-B",
@@ -441,8 +441,8 @@
         {
           "name": "colorTempGradient001",
           "path": "/flashdev2/colorTempGradient/colorTempGradient001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -453,14 +453,14 @@
         {
           "name": "configurationsSimulator043",
           "path": "/flashdev2/configurationsSimulator/configurationsSimulator043.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 680
         },
         {
           "name": "configurationsSimulator044",
           "path": "/flashdev2/configurationsSimulator/configurationsSimulator044.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 680
         },
         {
           "name": "configurationsSimulator044-B",
@@ -495,14 +495,14 @@
         {
           "name": "curvedText002",
           "path": "/flashdev2/curvedText/curvedText002.swf",
-          "width": 0,
-          "height": 0
+          "width": 725,
+          "height": 525
         },
         {
           "name": "curvedText003",
           "path": "/flashdev2/curvedText/curvedText003.swf",
-          "width": 0,
-          "height": 0
+          "width": 725,
+          "height": 525
         }
       ]
     },
@@ -513,20 +513,20 @@
         {
           "name": "daylightHoursExplorer002",
           "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer002.swf",
-          "width": 0,
-          "height": 0
+          "width": 630,
+          "height": 540
         },
         {
           "name": "daylightHoursExplorer005",
           "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer005.swf",
-          "width": 0,
-          "height": 0
+          "width": 930,
+          "height": 510
         },
         {
           "name": "daylightHoursExplorer008",
           "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008.swf",
-          "width": 0,
-          "height": 0
+          "width": 930,
+          "height": 510
         },
         {
           "name": "daylightHoursExplorer008-B",
@@ -561,8 +561,8 @@
         {
           "name": "demoCelestialSphere001",
           "path": "/flashdev2/demoCelestialSphere/demoCelestialSphere001.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 500
         }
       ]
     },
@@ -573,8 +573,8 @@
         {
           "name": "demoHorizonDiagram001",
           "path": "/flashdev2/demoHorizonDiagram/demoHorizonDiagram001.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 500
         }
       ]
     },
@@ -585,8 +585,8 @@
         {
           "name": "dipperClock005",
           "path": "/flashdev2/dipperClock/dipperClock005.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 340
         },
         {
           "name": "dipperClock005-B",
@@ -609,8 +609,8 @@
         {
           "name": "displayText008",
           "path": "/flashdev2/displayText/displayText008.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 400
         }
       ]
     },
@@ -621,14 +621,14 @@
         {
           "name": "diurnalMotion003",
           "path": "/flashdev2/diurnalMotion/diurnalMotion003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 400
         },
         {
           "name": "diurnalMotion004",
           "path": "/flashdev2/diurnalMotion/diurnalMotion004.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 400
         }
       ]
     },
@@ -639,8 +639,8 @@
         {
           "name": "dopplerShiftComponent001",
           "path": "/flashdev2/dopplerShiftComponent/dopplerShiftComponent001.swf",
-          "width": 0,
-          "height": 0
+          "width": 310,
+          "height": 120
         }
       ]
     },
@@ -651,8 +651,8 @@
         {
           "name": "dopplerShiftDemo004",
           "path": "/flashdev2/dopplerShiftDemo/dopplerShiftDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 300
         }
       ]
     },
@@ -663,8 +663,8 @@
         {
           "name": "circles",
           "path": "/flashdev2/dopplerShiftDemo2/old/circles.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         },
         {
           "name": "dopplerShift",
@@ -729,26 +729,26 @@
         {
           "name": "draggableSunDemo016",
           "path": "/flashdev2/draggableSunDemo/draggableSunDemo016.swf",
-          "width": 0,
-          "height": 0
+          "width": 750,
+          "height": 575
         },
         {
           "name": "draggableSunDemo018",
           "path": "/flashdev2/draggableSunDemo/draggableSunDemo018.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         },
         {
           "name": "draggableSunDemo019",
           "path": "/flashdev2/draggableSunDemo/draggableSunDemo019.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         },
         {
           "name": "draggableSunDemo024",
           "path": "/flashdev2/draggableSunDemo/draggableSunDemo024.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -759,8 +759,8 @@
         {
           "name": "drawArc002",
           "path": "/flashdev2/drawArc/drawArc002.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 650
         }
       ]
     },
@@ -783,8 +783,8 @@
         {
           "name": "drawPhaseDisc001",
           "path": "/flashdev2/drawPhaseDisc/drawPhaseDisc001.swf",
-          "width": 0,
-          "height": 0
+          "width": 1050,
+          "height": 600
         }
       ]
     },
@@ -795,8 +795,8 @@
         {
           "name": "drawPhaseDiscAS3001",
           "path": "/flashdev2/drawPhaseDiscAS3/drawPhaseDiscAS3001.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 470
         }
       ]
     },
@@ -807,8 +807,8 @@
         {
           "name": "duellingGrids002",
           "path": "/flashdev2/duellingGrids/duellingGrids002.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 420
         }
       ]
     },
@@ -825,14 +825,14 @@
         {
           "name": "earthOrbitPlot001",
           "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot001.swf",
-          "width": 0,
-          "height": 0
+          "width": 730,
+          "height": 550
         },
         {
           "name": "earthOrbitPlot002",
           "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot002.swf",
-          "width": 0,
-          "height": 0
+          "width": 730,
+          "height": 550
         }
       ]
     },
@@ -843,14 +843,14 @@
         {
           "name": "earthTiltDemo005",
           "path": "/flashdev2/earthTiltDemo/earthTiltDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 680
         },
         {
           "name": "earthTiltDemo006",
           "path": "/flashdev2/earthTiltDemo/earthTiltDemo006.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -867,8 +867,8 @@
         {
           "name": "eclipse_table010",
           "path": "/flashdev2/eclipse_table/eclipse_table010.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 550
         },
         {
           "name": "eclipse_table010-B",
@@ -885,8 +885,8 @@
         {
           "name": "eclipticSimulator024",
           "path": "/flashdev2/eclipticSimulator/eclipticSimulator024.swf",
-          "width": 0,
-          "height": 0
+          "width": 970,
+          "height": 710
         },
         {
           "name": "eclipticSimulator024-B",
@@ -909,8 +909,8 @@
         {
           "name": "eclipticSimulator025",
           "path": "/flashdev2/eclipticSimulator/eclipticSimulator025.swf",
-          "width": 0,
-          "height": 0
+          "width": 970,
+          "height": 710
         }
       ]
     },
@@ -921,8 +921,8 @@
         {
           "name": "eduBeamSpread001",
           "path": "/flashdev2/eduBeamSpread/eduBeamSpread001.swf",
-          "width": 0,
-          "height": 0
+          "width": 200,
+          "height": 200
         }
       ]
     },
@@ -933,8 +933,8 @@
         {
           "name": "eduDecRanges001",
           "path": "/flashdev2/eduDecRanges/eduDecRanges001.swf",
-          "width": 0,
-          "height": 0
+          "width": 240,
+          "height": 240
         }
       ]
     },
@@ -957,14 +957,14 @@
         {
           "name": "eduDistribution001",
           "path": "/flashdev2/eduDistribution/eduDistribution001.swf",
-          "width": 0,
-          "height": 0
+          "width": 100,
+          "height": 100
         },
         {
           "name": "eduDistribution002",
           "path": "/flashdev2/eduDistribution/eduDistribution002.swf",
-          "width": 0,
-          "height": 0
+          "width": 100,
+          "height": 100
         }
       ]
     },
@@ -975,8 +975,8 @@
         {
           "name": "eduEnergyLevels003",
           "path": "/flashdev2/eduEnergyLevels/eduEnergyLevels003.swf",
-          "width": 0,
-          "height": 0
+          "width": 150,
+          "height": 250
         }
       ]
     },
@@ -987,8 +987,8 @@
         {
           "name": "eduHRDiagram006",
           "path": "/flashdev2/eduHRDiagram/eduHRDiagram006.swf",
-          "width": 0,
-          "height": 0
+          "width": 360,
+          "height": 390
         }
       ]
     },
@@ -999,20 +999,20 @@
         {
           "name": "eduMap001",
           "path": "/flashdev2/eduMap/eduMap001.swf",
-          "width": 0,
-          "height": 0
+          "width": 350,
+          "height": 180
         },
         {
           "name": "eduMap002",
           "path": "/flashdev2/eduMap/eduMap002.swf",
-          "width": 0,
-          "height": 0
+          "width": 350,
+          "height": 180
         },
         {
           "name": "eduMap003",
           "path": "/flashdev2/eduMap/eduMap003.swf",
-          "width": 0,
-          "height": 0
+          "width": 350,
+          "height": 180
         }
       ]
     },
@@ -1041,8 +1041,8 @@
         {
           "name": "eduMBD004",
           "path": "/flashdev2/eduMBD/eduMBD004.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 320
         }
       ]
     },
@@ -1053,8 +1053,8 @@
         {
           "name": "eduSideBeamView001",
           "path": "/flashdev2/eduSideBeamView/eduSideBeamView001.swf",
-          "width": 0,
-          "height": 0
+          "width": 200,
+          "height": 200
         }
       ]
     },
@@ -1065,8 +1065,8 @@
         {
           "name": "eduSkyMotion002",
           "path": "/flashdev2/eduSkyMotion/eduSkyMotion002.swf",
-          "width": 0,
-          "height": 0
+          "width": 387,
+          "height": 236
         }
       ]
     },
@@ -1077,14 +1077,14 @@
         {
           "name": "ellipseDemo004",
           "path": "/flashdev2/ellipseDemo/ellipseDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 220
         },
         {
           "name": "ellipseDemo005",
           "path": "/flashdev2/ellipseDemo/ellipseDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 220
         }
       ]
     },
@@ -1095,8 +1095,8 @@
         {
           "name": "ellipseDemoWithSweeps002",
           "path": "/flashdev2/ellipseDemoWithSweeps/ellipseDemoWithSweeps002.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -1107,8 +1107,8 @@
         {
           "name": "elongationComponent006",
           "path": "/flashdev2/elongationComponent/elongationComponent006.swf",
-          "width": 0,
-          "height": 0
+          "width": 1000,
+          "height": 800
         }
       ]
     },
@@ -1119,8 +1119,8 @@
         {
           "name": "errorFunction001",
           "path": "/flashdev2/errorFunction/errorFunction001.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 100
         }
       ]
     },
@@ -1131,8 +1131,8 @@
         {
           "name": "evolutionTest001",
           "path": "/flashdev2/evolutionTest/evolutionTest001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 550
         }
       ]
     },
@@ -1143,14 +1143,14 @@
         {
           "name": "exoplanetComboDiagram001",
           "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram001.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 300
         },
         {
           "name": "exoplanetComboDiagram004",
           "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram004.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 300
         }
       ]
     },
@@ -1161,8 +1161,8 @@
         {
           "name": "exoplanetOrbitDiagram007",
           "path": "/flashdev2/exoplanetOrbitDiagram/exoplanetOrbitDiagram007.swf",
-          "width": 0,
-          "height": 0
+          "width": 300,
+          "height": 300
         }
       ]
     },
@@ -1191,8 +1191,8 @@
         {
           "name": "figureEight001",
           "path": "/flashdev2/figureEight/figureEight001.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 520
         }
       ]
     },
@@ -1203,8 +1203,8 @@
         {
           "name": "filters035",
           "path": "/flashdev2/filters/filters035.swf",
-          "width": 0,
-          "height": 0
+          "width": 980,
+          "height": 710
         },
         {
           "name": "filters035-B",
@@ -1221,8 +1221,8 @@
         {
           "name": "flashlightAndPaper003",
           "path": "/flashdev2/flashlightAndPaper/flashlightAndPaper003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 500
         }
       ]
     },
@@ -1233,14 +1233,14 @@
         {
           "name": "flatMapComponent005",
           "path": "/flashdev2/flatMapComponent/flatMapComponent005.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 400
         },
         {
           "name": "flatMapComponent007",
           "path": "/flashdev2/flatMapComponent/flatMapComponent007.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 400
         }
       ]
     },
@@ -1251,14 +1251,14 @@
         {
           "name": "flatSkyView003",
           "path": "/flashdev2/flatSkyView/flatSkyView003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 450
         },
         {
           "name": "flatSkyView004",
           "path": "/flashdev2/flatSkyView/flatSkyView004.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 450
         }
       ]
     },
@@ -1269,8 +1269,8 @@
         {
           "name": "fluxCube001",
           "path": "/flashdev2/fluxCube/fluxCube001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 500
         }
       ]
     },
@@ -1281,8 +1281,8 @@
         {
           "name": "formationTemps002",
           "path": "/flashdev2/formationTemps/formationTemps002.swf",
-          "width": 0,
-          "height": 0
+          "width": 760,
+          "height": 560
         },
         {
           "name": "formationTemps002-B",
@@ -1299,8 +1299,8 @@
         {
           "name": "fullMoonDec001",
           "path": "/flashdev2/fullMoonDec/fullMoonDec001.swf",
-          "width": 0,
-          "height": 0
+          "width": 875,
+          "height": 430
         }
       ]
     },
@@ -1311,14 +1311,14 @@
         {
           "name": "galacticDopplerShift004",
           "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift004.swf",
-          "width": 0,
-          "height": 0
+          "width": 240,
+          "height": 300
         },
         {
           "name": "galacticDopplerShift006",
           "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift006.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 300
         }
       ]
     },
@@ -1335,8 +1335,8 @@
         {
           "name": "galacticRedshift003",
           "path": "/flashdev2/galacticRedshift/galacticRedshift003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 630
         }
       ]
     },
@@ -1347,8 +1347,8 @@
         {
           "name": "gasRetentionPlot015",
           "path": "/flashdev2/gasRetentionPlot/gasRetentionPlot015.swf",
-          "width": 0,
-          "height": 0
+          "width": 880,
+          "height": 660
         },
         {
           "name": "gasRetentionPlot015-B",
@@ -1365,8 +1365,8 @@
         {
           "name": "gasRetentionSimulator022",
           "path": "/flashdev2/gasRetentionSimulator/gasRetentionSimulator022.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 650
         },
         {
           "name": "gasRetentionSimulator022-B",
@@ -1383,8 +1383,8 @@
         {
           "name": "gaussianRandomNumber001",
           "path": "/flashdev2/gaussianRandomNumber/gaussianRandomNumber001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -1395,14 +1395,14 @@
         {
           "name": "globeComponent002",
           "path": "/flashdev2/globeComponent/globeComponent002.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 500
         },
         {
           "name": "globeComponent027",
           "path": "/flashdev2/globeComponent/globeComponent027.swf",
-          "width": 0,
-          "height": 0
+          "width": 930,
+          "height": 700
         }
       ]
     },
@@ -1413,8 +1413,8 @@
         {
           "name": "globeDiscAreas004",
           "path": "/flashdev2/globeDiscAreas/globeDiscAreas004.swf",
-          "width": 0,
-          "height": 0
+          "width": 300,
+          "height": 300
         }
       ]
     },
@@ -1425,8 +1425,8 @@
         {
           "name": "graticuleComponent001",
           "path": "/flashdev2/graticuleComponent/graticuleComponent001.swf",
-          "width": 0,
-          "height": 0
+          "width": 300,
+          "height": 300
         }
       ]
     },
@@ -1437,20 +1437,20 @@
         {
           "name": "gravAlgebra004",
           "path": "/flashdev2/gravAlgebra/gravAlgebra004.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         },
         {
           "name": "gravAlgebra005",
           "path": "/flashdev2/gravAlgebra/gravAlgebra005.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         },
         {
           "name": "gravAlgebra006",
           "path": "/flashdev2/gravAlgebra/gravAlgebra006.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         },
         {
           "name": "gravAlgebra006-B",
@@ -1527,44 +1527,44 @@
         {
           "name": "gridTest001",
           "path": "/flashdev2/gridTest/gridTest001.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 400
         },
         {
           "name": "gridTest004",
           "path": "/flashdev2/gridTest/gridTest004.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         },
         {
           "name": "gridTest005",
           "path": "/flashdev2/gridTest/gridTest005.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         },
         {
           "name": "gridTest006",
           "path": "/flashdev2/gridTest/gridTest006.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         },
         {
           "name": "gridTest009",
           "path": "/flashdev2/gridTest/gridTest009.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         },
         {
           "name": "gridTest010",
           "path": "/flashdev2/gridTest/gridTest010.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         },
         {
           "name": "gridTest011",
           "path": "/flashdev2/gridTest/gridTest011.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 440
         }
       ]
     },
@@ -1575,8 +1575,8 @@
         {
           "name": "heliacalRisingSimulator015",
           "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015.swf",
-          "width": 0,
-          "height": 0
+          "width": 825,
+          "height": 580
         },
         {
           "name": "heliacalRisingSimulator015-B",
@@ -1599,8 +1599,8 @@
         {
           "name": "heliacalRisingTimeline005",
           "path": "/flashdev2/heliacalRisingTimeline/heliacalRisingTimeline005.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 600
         }
       ]
     },
@@ -1611,8 +1611,8 @@
         {
           "name": "hrDiagramComponent043",
           "path": "/flashdev2/hrDiagramComponent/hrDiagramComponent043.swf",
-          "width": 0,
-          "height": 0
+          "width": 1050,
+          "height": 670
         }
       ]
     },
@@ -1623,8 +1623,8 @@
         {
           "name": "hrExplorer013",
           "path": "/flashdev2/hrExplorer/hrExplorer013.swf",
-          "width": 0,
-          "height": 0
+          "width": 805,
+          "height": 665
         },
         {
           "name": "hrExplorer013-B",
@@ -1641,8 +1641,8 @@
         {
           "name": "hydrogenAtom033",
           "path": "/flashdev2/hydrogenAtom/hydrogenAtom033.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 640
         },
         {
           "name": "hydrogenAtom033-B",
@@ -1659,14 +1659,14 @@
         {
           "name": "interfaceComponents006",
           "path": "/flashdev2/interfaceComponents/interfaceComponents006.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 500
         },
         {
           "name": "interfaceComponents007",
           "path": "/flashdev2/interfaceComponents/interfaceComponents007.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 500
         },
         {
           "name": "interfaceComponents008",
@@ -1695,8 +1695,8 @@
         {
           "name": "inverseSquareShells003",
           "path": "/flashdev2/inverseSquareShells/inverseSquareShells003.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 550
         }
       ]
     },
@@ -1707,14 +1707,14 @@
         {
           "name": "kepler088",
           "path": "/flashdev2/kepler/kepler088.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "kepler089",
           "path": "/flashdev2/kepler/kepler089.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 710
         },
         {
           "name": "kepler089-B",
@@ -1737,8 +1737,8 @@
         {
           "name": "kepler2ndDemo001",
           "path": "/flashdev2/kepler2ndDemo/kepler2ndDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -1749,8 +1749,8 @@
         {
           "name": "latAngleDemo001",
           "path": "/flashdev2/latAngleDemo/latAngleDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 185,
+          "height": 245
         }
       ]
     },
@@ -1761,8 +1761,8 @@
         {
           "name": "latDemo005",
           "path": "/flashdev2/latDemo/latDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 675,
+          "height": 400
         }
       ]
     },
@@ -1773,8 +1773,8 @@
         {
           "name": "latLongHint001",
           "path": "/flashdev2/latLongHint/latLongHint001.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 400
         }
       ]
     },
@@ -1785,8 +1785,8 @@
         {
           "name": "lightcurveComponent001",
           "path": "/flashdev2/lightcurveComponent/lightcurveComponent001.swf",
-          "width": 0,
-          "height": 0
+          "width": 980,
+          "height": 600
         }
       ]
     },
@@ -1797,8 +1797,8 @@
         {
           "name": "lightcurveComponentII006",
           "path": "/flashdev2/lightcurveComponentII/lightcurveComponentII006.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 500
         }
       ]
     },
@@ -1809,8 +1809,8 @@
         {
           "name": "lissajous001",
           "path": "/flashdev2/lissajous/lissajous001.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 520
         }
       ]
     },
@@ -1821,8 +1821,8 @@
         {
           "name": "logHistogram002",
           "path": "/flashdev2/logHistogram/logHistogram002.swf",
-          "width": 0,
-          "height": 0
+          "width": 620,
+          "height": 400
         }
       ]
     },
@@ -1833,8 +1833,8 @@
         {
           "name": "longLatDemo014",
           "path": "/flashdev2/longLatDemo/longLatDemo014.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 400
         }
       ]
     },
@@ -1845,8 +1845,8 @@
         {
           "name": "lookBackTimeSim008",
           "path": "/flashdev2/lookBackTimeSim/lookBackTimeSim008.swf",
-          "width": 0,
-          "height": 0
+          "width": 620,
+          "height": 400
         },
         {
           "name": "lookBackTimeSim008-B",
@@ -1881,20 +1881,20 @@
         {
           "name": "lunar_applet033",
           "path": "/flashdev2/lunar_applet/lunar_applet033.swf",
-          "width": 0,
-          "height": 0
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet035",
           "path": "/flashdev2/lunar_applet/lunar_applet035.swf",
-          "width": 0,
-          "height": 0
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet037",
           "path": "/flashdev2/lunar_applet/lunar_applet037.swf",
-          "width": 0,
-          "height": 0
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet038",
@@ -1905,8 +1905,8 @@
         {
           "name": "lunar_applet040",
           "path": "/flashdev2/lunar_applet/lunar_applet040.swf",
-          "width": 0,
-          "height": 0
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet040-B",
@@ -1935,8 +1935,8 @@
         {
           "name": "lunarPhaseQuizzer003",
           "path": "/flashdev2/lunarPhaseQuizzer/lunarPhaseQuizzer003.swf",
-          "width": 0,
-          "height": 0
+          "width": 840,
+          "height": 600
         },
         {
           "name": "lunarPhaseQuizzer003-B",
@@ -1953,8 +1953,8 @@
         {
           "name": "mapExplorer010",
           "path": "/flashdev2/mapExplorer/mapExplorer010.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 580
         }
       ]
     },
@@ -1965,8 +1965,8 @@
         {
           "name": "marsOrbit005",
           "path": "/flashdev2/marsOrbit/marsOrbit005.swf",
-          "width": 0,
-          "height": 0
+          "width": 825,
+          "height": 550
         }
       ]
     },
@@ -1977,8 +1977,8 @@
         {
           "name": "maxwellPlotComponent004",
           "path": "/flashdev2/maxwellPlotComponent/maxwellPlotComponent004.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 400
         }
       ]
     },
@@ -1989,8 +1989,8 @@
         {
           "name": "MBDDemo004",
           "path": "/flashdev2/MBDDemo/MBDDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 925,
+          "height": 395
         }
       ]
     },
@@ -2001,8 +2001,8 @@
         {
           "name": "meltedNail008",
           "path": "/flashdev2/meltedNail/meltedNail008.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 340
         },
         {
           "name": "meltedNail008-B",
@@ -2019,8 +2019,8 @@
         {
           "name": "milkyWayHabitability001",
           "path": "/flashdev2/milkyWayHabitability/milkyWayHabitability001.swf",
-          "width": 0,
-          "height": 0
+          "width": 860,
+          "height": 700
         },
         {
           "name": "milkyWayHabitability001-B",
@@ -2037,14 +2037,14 @@
         {
           "name": "milkyWayRotationalVelocity004",
           "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity004.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 410
         },
         {
           "name": "milkyWayRotationalVelocity005",
           "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005.swf",
-          "width": 0,
-          "height": 0
+          "width": 921,
+          "height": 394
         },
         {
           "name": "milkyWayRotationalVelocity005-B",
@@ -2067,8 +2067,8 @@
         {
           "name": "miniRaySimulator001",
           "path": "/flashdev2/miniRaySimulator/miniRaySimulator001.swf",
-          "width": 0,
-          "height": 0
+          "width": 760,
+          "height": 340
         }
       ]
     },
@@ -2079,8 +2079,8 @@
         {
           "name": "miniSystem004",
           "path": "/flashdev2/miniSystem/miniSystem004.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 400
         }
       ]
     },
@@ -2097,32 +2097,32 @@
         {
           "name": "moonBisectorDemo001",
           "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 880,
+          "height": 614
         },
         {
           "name": "moonBisectorDemo002",
           "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo002.swf",
-          "width": 0,
-          "height": 0
+          "width": 880,
+          "height": 614
         },
         {
           "name": "moonBisectorDemo003",
           "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 644
         },
         {
           "name": "moonBisectorDemo004",
           "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 644
         },
         {
           "name": "moonBisectorDemo005",
           "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 644
         },
         {
           "name": "moonBisectorDemo005-B",
@@ -2145,14 +2145,14 @@
         {
           "name": "moonInSky001",
           "path": "/flashdev2/moonInSky/moonInSky001.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 500
         },
         {
           "name": "moonInSky002",
           "path": "/flashdev2/moonInSky/moonInSky002.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 500
         },
         {
           "name": "moonInSkyCore",
@@ -2175,8 +2175,8 @@
         {
           "name": "moon_inclination009",
           "path": "/flashdev2/moon_inclination/moon_inclination009.swf",
-          "width": 0,
-          "height": 0
+          "width": 750,
+          "height": 500
         }
       ]
     },
@@ -2187,8 +2187,8 @@
         {
           "name": "moonPhases003",
           "path": "/flashdev2/moonPhases/moonPhases003.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 220
         }
       ]
     },
@@ -2199,8 +2199,8 @@
         {
           "name": "numberFunctions002",
           "path": "/flashdev2/numberFunctions/numberFunctions002.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 500
         }
       ]
     },
@@ -2211,8 +2211,8 @@
         {
           "name": "obliquity004",
           "path": "/flashdev2/obliquity/obliquity004.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -2223,8 +2223,8 @@
         {
           "name": "parallaxDemo001",
           "path": "/flashdev2/parallaxDemo/parallaxDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         }
       ]
     },
@@ -2235,8 +2235,8 @@
         {
           "name": "parallaxDiagram001",
           "path": "/flashdev2/parallaxDiagram/parallaxDiagram001.swf",
-          "width": 0,
-          "height": 0
+          "width": 720,
+          "height": 380
         },
         {
           "name": "parallaxDiagram001-B",
@@ -2253,38 +2253,38 @@
         {
           "name": "parallaxExplorer004",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer004.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer005",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer005.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer006",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer006.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer007",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer007.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer008",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer008.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer009",
           "path": "/flashdev2/parallaxExplorer/parallaxExplorer009.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 605
         },
         {
           "name": "parallaxExplorer009-B",
@@ -2301,14 +2301,14 @@
         {
           "name": "epicycleEquivalence",
           "path": "/flashdev2/pathTracer/epicycleEquivalence.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         },
         {
           "name": "pathTracer005",
           "path": "/flashdev2/pathTracer/pathTracer005.swf",
-          "width": 0,
-          "height": 0
+          "width": 875,
+          "height": 600
         },
         {
           "name": "pathTracer005-B",
@@ -2325,8 +2325,8 @@
         {
           "name": "phaseDemonstrator005",
           "path": "/flashdev2/phaseDemonstrator/phaseDemonstrator005.swf",
-          "width": 0,
-          "height": 0
+          "width": 745,
+          "height": 545
         },
         {
           "name": "phaseDemonstrator005-B",
@@ -2343,8 +2343,8 @@
         {
           "name": "planeRotator001",
           "path": "/flashdev2/planeRotator/planeRotator001.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 500
         }
       ]
     },
@@ -2355,14 +2355,14 @@
         {
           "name": "positionsDemonstrator010",
           "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator010.swf",
-          "width": 0,
-          "height": 0
+          "width": 750,
+          "height": 465
         },
         {
           "name": "positionsDemonstrator011",
           "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011.swf",
-          "width": 0,
-          "height": 0
+          "width": 750,
+          "height": 465
         },
         {
           "name": "positionsDemonstrator011-B",
@@ -2385,20 +2385,20 @@
         {
           "name": "precessingGlobe012",
           "path": "/flashdev2/precessingGlobe/precessingGlobe012.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 500
         },
         {
           "name": "precessingGlobe013",
           "path": "/flashdev2/precessingGlobe/precessingGlobe013.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 500
         },
         {
           "name": "precessingGlobe014",
           "path": "/flashdev2/precessingGlobe/precessingGlobe014.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 500
         }
       ]
     },
@@ -2409,8 +2409,8 @@
         {
           "name": "projectile016",
           "path": "/flashdev2/projectile/projectile016.swf",
-          "width": 0,
-          "height": 0
+          "width": 680,
+          "height": 445
         },
         {
           "name": "projectile016-B",
@@ -2427,8 +2427,8 @@
         {
           "name": "ptolemaic023",
           "path": "/flashdev2/ptolemaic/ptolemaic023.swf",
-          "width": 0,
-          "height": 0
+          "width": 940,
+          "height": 710
         },
         {
           "name": "ptolemaic023-B",
@@ -2451,8 +2451,8 @@
         {
           "name": "ptolemaicVenus004",
           "path": "/flashdev2/ptolemaicVenus/ptolemaicVenus004.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 660
         },
         {
           "name": "ptolemaicVenus004-B",
@@ -2469,14 +2469,14 @@
         {
           "name": "pulsarPeriodSim001",
           "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSim001.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         },
         {
           "name": "pulsarPeriodSim001",
           "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSim001.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         },
         {
           "name": "pulsarPeriodSim001-B",
@@ -2487,14 +2487,14 @@
         {
           "name": "pulsarPeriodSimulator",
           "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSimulator.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         },
         {
           "name": "pulsarPeriodSimulator",
           "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSimulator.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         }
       ]
     },
@@ -2505,8 +2505,8 @@
         {
           "name": "pulsarPlanet001",
           "path": "/flashdev2/pulsarPlanet/pulsarPlanet001.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -2517,8 +2517,8 @@
         {
           "name": "raDecDemo007",
           "path": "/flashdev2/raDecDemo/raDecDemo007.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 450
         }
       ]
     },
@@ -2529,14 +2529,14 @@
         {
           "name": "raDecSimple001",
           "path": "/flashdev2/raDecSimple/raDecSimple001.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 450
         },
         {
           "name": "raDecSimple002",
           "path": "/flashdev2/raDecSimple/raDecSimple002.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 450
         }
       ]
     },
@@ -2547,8 +2547,8 @@
         {
           "name": "radialVelocityComponent010",
           "path": "/flashdev2/radialVelocityComponent/radialVelocityComponent010.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 400
         }
       ]
     },
@@ -2559,8 +2559,8 @@
         {
           "name": "radialVelocityDemo003",
           "path": "/flashdev2/radialVelocityDemo/radialVelocityDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 450
         }
       ]
     },
@@ -2571,14 +2571,14 @@
         {
           "name": "radialVelocitySimulator011",
           "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator011.swf",
-          "width": 0,
-          "height": 0
+          "width": 920,
+          "height": 680
         },
         {
           "name": "radialVelocitySimulator012",
           "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012.swf",
-          "width": 0,
-          "height": 0
+          "width": 920,
+          "height": 680
         },
         {
           "name": "radialVelocitySimulator012-B",
@@ -2607,8 +2607,8 @@
         {
           "name": "randomMaxwell003",
           "path": "/flashdev2/randomMaxwell/randomMaxwell003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 650
         }
       ]
     },
@@ -2619,8 +2619,8 @@
         {
           "name": "rotatingSphere001",
           "path": "/flashdev2/rotatingSphere/rotatingSphere001.swf",
-          "width": 0,
-          "height": 0
+          "width": 250,
+          "height": 400
         }
       ]
     },
@@ -2631,8 +2631,8 @@
         {
           "name": "sci_not002",
           "path": "/flashdev2/sci_not/sci_not002.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 350
         }
       ]
     },
@@ -2643,8 +2643,8 @@
         {
           "name": "sci_notNumber003",
           "path": "/flashdev2/sci_notNumber/sci_notNumber003.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 500
         }
       ]
     },
@@ -2655,20 +2655,20 @@
         {
           "name": "seasonSim003",
           "path": "/tt/seasonSim/seasonSim003.swf",
-          "width": 0,
-          "height": 0
+          "width": 640,
+          "height": 400
         },
         {
           "name": "seasonSim004",
           "path": "/tt/seasonSim/seasonSim004.swf",
-          "width": 0,
-          "height": 0
+          "width": 640,
+          "height": 400
         },
         {
           "name": "seasonSim005",
           "path": "/tt/seasonSim/seasonSim005.swf",
-          "width": 0,
-          "height": 0
+          "width": 640,
+          "height": 400
         },
         {
           "name": "seasonSim005-B",
@@ -2685,8 +2685,8 @@
         {
           "name": "sexagesimalCalculator001",
           "path": "/flashdev2/sexagesimalCalculator/sexagesimalCalculator001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -2697,8 +2697,8 @@
         {
           "name": "shadowCaster001",
           "path": "/flashdev2/shadowCaster/shadowCaster001.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 600
         }
       ]
     },
@@ -2709,8 +2709,8 @@
         {
           "name": "shadows003",
           "path": "/flashdev2/shadows/shadows003.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 500
         }
       ]
     },
@@ -2721,20 +2721,20 @@
         {
           "name": "shoreDemo001",
           "path": "/flashdev2/shoreDemo/shoreDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 675,
+          "height": 475
         },
         {
           "name": "shoreDemo004",
           "path": "/flashdev2/shoreDemo/shoreDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 675,
+          "height": 475
         },
         {
           "name": "shoreDemo005",
           "path": "/flashdev2/shoreDemo/shoreDemo005.swf",
-          "width": 0,
-          "height": 0
+          "width": 675,
+          "height": 475
         }
       ]
     },
@@ -2745,8 +2745,8 @@
         {
           "name": "shutterComponent009",
           "path": "/flashdev2/shutterComponent/shutterComponent009.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 500
         }
       ]
     },
@@ -2757,8 +2757,8 @@
         {
           "name": "siderealSolarTime",
           "path": "/flashdev2/siderealSolarTime/siderealSolarTime.swf",
-          "width": 0,
-          "height": 0
+          "width": 980,
+          "height": 570
         }
       ]
     },
@@ -2769,26 +2769,26 @@
         {
           "name": "siderealTimeAndHourAngleDemo001",
           "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 470
         },
         {
           "name": "siderealTimeAndHourAngleDemo002",
           "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo002.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 470
         },
         {
           "name": "siderealTimeAndHourAngleDemo003",
           "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 470
         },
         {
           "name": "siderealTimeAndHourAngleDemo004",
           "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo004.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 470
         },
         {
           "name": "siderealTimeAndHourAngleDemo004-B",
@@ -2805,14 +2805,14 @@
         {
           "name": "simpleBlackbody016",
           "path": "/flashdev2/simpleBlackbody/simpleBlackbody016.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         },
         {
           "name": "simpleBlackbody017",
           "path": "/flashdev2/simpleBlackbody/simpleBlackbody017.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -2823,8 +2823,8 @@
         {
           "name": "simpleFlatSkyMap007",
           "path": "/flashdev2/simpleFlatSkyMap/simpleFlatSkyMap007.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 580
         }
       ]
     },
@@ -2835,8 +2835,8 @@
         {
           "name": "simpleSolarSystem001",
           "path": "/flashdev2/simpleSolarSystem/simpleSolarSystem001.swf",
-          "width": 0,
-          "height": 0
+          "width": 580,
+          "height": 580
         }
       ]
     },
@@ -2847,8 +2847,8 @@
         {
           "name": "sinusoidComponent001",
           "path": "/flashdev2/sinusoidComponent/sinusoidComponent001.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 500
         }
       ]
     },
@@ -2859,8 +2859,8 @@
         {
           "name": "sinusoidComponentII004",
           "path": "/flashdev2/sinusoidComponentII/sinusoidComponentII004.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 200
         }
       ]
     },
@@ -2871,8 +2871,8 @@
         {
           "name": "sinusoidLightcurveQuestion001",
           "path": "/flashdev2/sinusoidLightcurveQuestion/sinusoidLightcurveQuestion001.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -2883,8 +2883,8 @@
         {
           "name": "skyMap028",
           "path": "/flashdev2/skyMap/skyMap028.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 560
         }
       ]
     },
@@ -2895,14 +2895,14 @@
         {
           "name": "slider008",
           "path": "/flashdev2/slider/slider008.swf",
-          "width": 0,
-          "height": 0
+          "width": 620,
+          "height": 600
         },
         {
           "name": "slider637",
           "path": "/flashdev2/slider/slider637.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         }
       ]
     },
@@ -2913,20 +2913,20 @@
         {
           "name": "smallAngleDemo001",
           "path": "/flashdev2/smallAngleDemo/smallAngleDemo001.swf",
-          "width": 0,
-          "height": 0
+          "width": 960,
+          "height": 300
         },
         {
           "name": "smallAngleDemo002",
           "path": "/flashdev2/smallAngleDemo/smallAngleDemo002.swf",
-          "width": 0,
-          "height": 0
+          "width": 960,
+          "height": 380
         },
         {
           "name": "smallAngleDemo003",
           "path": "/flashdev2/smallAngleDemo/smallAngleDemo003.swf",
-          "width": 0,
-          "height": 0
+          "width": 960,
+          "height": 380
         },
         {
           "name": "smallAngleDemo003-B",
@@ -2949,14 +2949,14 @@
         {
           "name": "snCurveExplorer005",
           "path": "/flashdev2/snCurveExplorer/snCurveExplorer005.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 620
         },
         {
           "name": "snCurveExplorer007",
           "path": "/flashdev2/snCurveExplorer/snCurveExplorer007.swf",
-          "width": 0,
-          "height": 0
+          "width": 650,
+          "height": 620
         },
         {
           "name": "snCurveExplorer007-B",
@@ -2973,8 +2973,8 @@
         {
           "name": "snTest002",
           "path": "/flashdev2/snTest/snTest002.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         }
       ]
     },
@@ -2985,8 +2985,8 @@
         {
           "name": "solarNeighborhood008",
           "path": "/flashdev2/solarNeighborhood/solarNeighborhood008.swf",
-          "width": 0,
-          "height": 0
+          "width": 920,
+          "height": 600
         }
       ]
     },
@@ -2997,14 +2997,14 @@
         {
           "name": "solarSystemProperties002",
           "path": "/flashdev2/solarSystemProperties/solarSystemProperties002.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 605
         },
         {
           "name": "solarSystemProperties003",
           "path": "/flashdev2/solarSystemProperties/solarSystemProperties003.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 605
         },
         {
           "name": "solarSystemProperties003-B",
@@ -3021,8 +3021,8 @@
         {
           "name": "spectralTypeHistogram002",
           "path": "/flashdev2/spectralTypeHistogram/spectralTypeHistogram002.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 300
         }
       ]
     },
@@ -3033,20 +3033,20 @@
         {
           "name": "spectroParallax011",
           "path": "/flashdev2/spectroParallax/spectroParallax011.swf",
-          "width": 0,
-          "height": 0
+          "width": 870,
+          "height": 600
         },
         {
           "name": "spectroParallax012",
           "path": "/flashdev2/spectroParallax/spectroParallax012.swf",
-          "width": 0,
-          "height": 0
+          "width": 870,
+          "height": 600
         },
         {
           "name": "spectroParallax013",
           "path": "/flashdev2/spectroParallax/spectroParallax013.swf",
-          "width": 0,
-          "height": 0
+          "width": 870,
+          "height": 600
         },
         {
           "name": "spectroParallax013-B",
@@ -3075,8 +3075,8 @@
         {
           "name": "starFieldComponent002",
           "path": "/flashdev2/starFieldComponent/starFieldComponent002.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 350
         }
       ]
     },
@@ -3105,26 +3105,26 @@
         {
           "name": "stellarHabitableZone",
           "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 600
         },
         {
           "name": "stellarHabitableZone",
           "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 600
         },
         {
           "name": "stellarHabitableZone001",
           "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone001.swf",
-          "width": 0,
-          "height": 0
+          "width": 980,
+          "height": 765
         },
         {
           "name": "stellarHabitableZone004",
           "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone004.swf",
-          "width": 0,
-          "height": 0
+          "width": 980,
+          "height": 765
         }
       ]
     },
@@ -3135,8 +3135,8 @@
         {
           "name": "sunAndMoonDiagram003",
           "path": "/flashdev2/sunAndMoonDiagram/sunAndMoonDiagram003.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -3147,8 +3147,8 @@
         {
           "name": "sunMoonHorizonDiagram002",
           "path": "/flashdev2/sunMoonHorizonDiagram/sunMoonHorizonDiagram002.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 400
         }
       ]
     },
@@ -3159,8 +3159,8 @@
         {
           "name": "sunMotionQuestionChecker002",
           "path": "/flashdev2/sunMotionQuestionChecker/sunMotionQuestionChecker002.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -3171,14 +3171,14 @@
         {
           "name": "sunMotions066",
           "path": "/flashdev2/sunMotions/sunMotions066.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 680
         },
         {
           "name": "sunMotions068",
           "path": "/flashdev2/sunMotions/sunMotions068.swf",
-          "width": 0,
-          "height": 0
+          "width": 950,
+          "height": 680
         },
         {
           "name": "sunMotions068-B",
@@ -3201,8 +3201,8 @@
         {
           "name": "sunPathComponent002",
           "path": "/flashdev2/sunPathComponent/sunPathComponent002.swf",
-          "width": 0,
-          "height": 0
+          "width": 670,
+          "height": 400
         }
       ]
     },
@@ -3213,8 +3213,8 @@
         {
           "name": "sunPathDiagram003",
           "path": "/flashdev2/sunPathDiagram/sunPathDiagram003.swf",
-          "width": 0,
-          "height": 0
+          "width": 300,
+          "height": 310
         }
       ]
     },
@@ -3225,8 +3225,8 @@
         {
           "name": "sunPathDiagramII001",
           "path": "/flashdev2/sunPathDiagramII/sunPathDiagramII001.swf",
-          "width": 0,
-          "height": 0
+          "width": 320,
+          "height": 320
         }
       ]
     },
@@ -3249,8 +3249,8 @@
         {
           "name": "sunPaths001",
           "path": "/flashdev2/sunPaths/sunPaths001.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 280
         }
       ]
     },
@@ -3261,8 +3261,8 @@
         {
           "name": "sunPropertyCurves001",
           "path": "/flashdev2/sunPropertyCurves/sunPropertyCurves001.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 400
         }
       ]
     },
@@ -3273,8 +3273,8 @@
         {
           "name": "sunbeamComponent001",
           "path": "/flashdev2/sunbeamComponent/sunbeamComponent001.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -3285,8 +3285,8 @@
         {
           "name": "terminator001",
           "path": "/flashdev2/terminator/terminator001.swf",
-          "width": 0,
-          "height": 0
+          "width": 500,
+          "height": 280
         }
       ]
     },
@@ -3309,8 +3309,8 @@
         {
           "name": "threeBeamViews001",
           "path": "/flashdev2/threeBeamViews/threeBeamViews001.swf",
-          "width": 0,
-          "height": 0
+          "width": 450,
+          "height": 150
         }
       ]
     },
@@ -3321,14 +3321,14 @@
         {
           "name": "threeViewsSpectra004",
           "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra004.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 500
         },
         {
           "name": "threeViewsSpectra005",
           "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra005.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 500
         }
       ]
     },
@@ -3339,8 +3339,8 @@
         {
           "name": "toFixed002",
           "path": "/flashdev2/toFixed/toFixed002.swf",
-          "width": 0,
-          "height": 0
+          "width": 550,
+          "height": 250
         }
       ]
     },
@@ -3351,8 +3351,8 @@
         {
           "name": "tracksTest001",
           "path": "/flashdev2/tracksTest/tracksTest001.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 450
         }
       ]
     },
@@ -3369,20 +3369,20 @@
         {
           "name": "transitMovie037",
           "path": "/flashdev2/transitMovie/transitMovie037.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         },
         {
           "name": "transitMovie038",
           "path": "/flashdev2/transitMovie/transitMovie038.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 600
         },
         {
           "name": "transitMovie039",
           "path": "/flashdev2/transitMovie/transitMovie039.swf",
-          "width": 0,
-          "height": 0
+          "width": 820,
+          "height": 600
         },
         {
           "name": "transitMovie040",
@@ -3393,8 +3393,8 @@
         {
           "name": "transitMovie041",
           "path": "/flashdev2/transitMovie/transitMovie041.swf",
-          "width": 0,
-          "height": 0
+          "width": 820,
+          "height": 600
         },
         {
           "name": "transitMovie041-B",
@@ -3411,8 +3411,8 @@
         {
           "name": "transitSimulator017",
           "path": "/flashdev2/transitSimulator/transitSimulator017.swf",
-          "width": 0,
-          "height": 0
+          "width": 920,
+          "height": 650
         },
         {
           "name": "transitSimulator017-B",
@@ -3441,56 +3441,56 @@
         {
           "name": "typeAndTemp001",
           "path": "/flashdev2/typeAndTemp/typeAndTemp001.swf",
-          "width": 0,
-          "height": 0
+          "width": 600,
+          "height": 400
         },
         {
           "name": "typeAndTemp002",
           "path": "/flashdev2/typeAndTemp/typeAndTemp002.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 600
         },
         {
           "name": "typeAndTemp004",
           "path": "/flashdev2/typeAndTemp/typeAndTemp004.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 600
         },
         {
           "name": "typeAndTemp005",
           "path": "/flashdev2/typeAndTemp/typeAndTemp005.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 600
         },
         {
           "name": "typeAndTemp008",
           "path": "/flashdev2/typeAndTemp/typeAndTemp008.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 600
         },
         {
           "name": "typeAndTemp009",
           "path": "/flashdev2/typeAndTemp/typeAndTemp009.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 800
         },
         {
           "name": "typeAndTemp010",
           "path": "/flashdev2/typeAndTemp/typeAndTemp010.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 860
         },
         {
           "name": "typeAndTemp012",
           "path": "/flashdev2/typeAndTemp/typeAndTemp012.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 920
         },
         {
           "name": "typeAndTemp014",
           "path": "/flashdev2/typeAndTemp/typeAndTemp014.swf",
-          "width": 0,
-          "height": 0
+          "width": 700,
+          "height": 920
         }
       ]
     },
@@ -3501,8 +3501,8 @@
         {
           "name": "ubv011",
           "path": "/flashdev2/ubv/ubv011.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 600
         }
       ]
     },
@@ -3513,8 +3513,8 @@
         {
           "name": "variableStarCurves010",
           "path": "/flashdev2/variableStarCurves/variableStarCurves010.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 400
         }
       ]
     },
@@ -3543,8 +3543,8 @@
         {
           "name": "CCDMiniSim",
           "path": "/flashdev2/variableStarLabs/CCDMiniSim.swf",
-          "width": 0,
-          "height": 0
+          "width": 400,
+          "height": 640
         },
         {
           "name": "CCDMiniSim-B",
@@ -3579,8 +3579,8 @@
         {
           "name": "interactive1",
           "path": "/flashdev2/variableStarLabs/interactive1.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 600
         },
         {
           "name": "interactive1_test",
@@ -3591,20 +3591,20 @@
         {
           "name": "interactive1b",
           "path": "/flashdev2/variableStarLabs/interactive1b.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 600
         },
         {
           "name": "interactive2",
           "path": "/flashdev2/variableStarLabs/interactive2.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 500
         },
         {
           "name": "interactive3",
           "path": "/flashdev2/variableStarLabs/interactive3.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 715
         },
         {
           "name": "interactive3 delete",
@@ -3627,20 +3627,20 @@
         {
           "name": "photometrySimulator",
           "path": "/flashdev2/variableStarLabs/photometrySimulator.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 600
         },
         {
           "name": "registrationExample",
           "path": "/flashdev2/variableStarLabs/registrationExample.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 600
         },
         {
           "name": "registrationSimulator",
           "path": "/flashdev2/variableStarLabs/registrationSimulator.swf",
-          "width": 0,
-          "height": 0
+          "width": 850,
+          "height": 475
         },
         {
           "name": "starDataGen",
@@ -3729,8 +3729,8 @@
         {
           "name": "vectorSketchpad017",
           "path": "/flashdev2/vectorSketchpad/vectorSketchpad017.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 650
         }
       ]
     },
@@ -3741,8 +3741,8 @@
         {
           "name": "venusPhases005",
           "path": "/flashdev2/venusPhases/venusPhases005.swf",
-          "width": 0,
-          "height": 0
+          "width": 870,
+          "height": 600
         },
         {
           "name": "venusPhases005-B",
@@ -3759,8 +3759,8 @@
         {
           "name": "wagonWheel003",
           "path": "/tt/wagonWheel/wagonWheel003.swf",
-          "width": 0,
-          "height": 0
+          "width": 580,
+          "height": 470
         },
         {
           "name": "wagonWheel003-B",
@@ -3777,8 +3777,8 @@
         {
           "name": "watchDigits001",
           "path": "/flashdev2/watchDigits/watchDigits001.swf",
-          "width": 0,
-          "height": 0
+          "width": 200,
+          "height": 200
         }
       ]
     },
@@ -3789,20 +3789,20 @@
         {
           "name": "zodiac015",
           "path": "/flashdev2/zodiac/zodiac015.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 650
         },
         {
           "name": "zodiac016",
           "path": "/flashdev2/zodiac/zodiac016.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 650
         },
         {
           "name": "zodiac017",
           "path": "/flashdev2/zodiac/zodiac017.swf",
-          "width": 0,
-          "height": 0
+          "width": 800,
+          "height": 650
         }
       ]
     },
@@ -3891,32 +3891,32 @@
         {
           "name": "zodiacSimulator002",
           "path": "/flashdev2/zodiacSimulator/zodiacSimulator002.swf",
-          "width": 0,
-          "height": 0
+          "width": 720,
+          "height": 700
         },
         {
           "name": "zodiacSimulator003",
           "path": "/flashdev2/zodiacSimulator/zodiacSimulator003.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 750
         },
         {
           "name": "zodiacSimulator004",
           "path": "/flashdev2/zodiacSimulator/zodiacSimulator004.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 750
         },
         {
           "name": "zodiacSimulator005",
           "path": "/flashdev2/zodiacSimulator/zodiacSimulator005.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 750
         },
         {
           "name": "zodiacSimulator006",
           "path": "/flashdev2/zodiacSimulator/zodiacSimulator006.swf",
-          "width": 0,
-          "height": 0
+          "width": 900,
+          "height": 750
         }
       ]
     }

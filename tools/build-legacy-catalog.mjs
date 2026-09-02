@@ -16,19 +16,28 @@ function titleCase(value) {
 }
 
 function parseDimensions(html) {
-  const patterns = [
-    /width="(\d+)"[^>]*height="(\d+)"/i,
-    /WIDTH="(\d+)"[^>]*HEIGHT="(\d+)"/i,
-    /flash_width:\s*(\d+)[^\d]+flash_height:\s*(\d+)/i
+  const objectPatterns = [
+    /<(?:object|embed)\b[^>]*\bwidth="(\d+)"[^>]*\bheight="(\d+)"/i,
+    /<(?:object|embed)\b[^>]*\bheight="(\d+)"[^>]*\bwidth="(\d+)"/i
   ];
 
-  for (const pattern of patterns) {
+  for (const pattern of objectPatterns) {
     const match = html.match(pattern);
     if (match) {
-      return {
-        width: Number(match[1]),
-        height: Number(match[2])
-      };
+      const width = Number(match[1]);
+      const height = Number(match[2]);
+      if (width > 0 && height > 0) {
+        return { width, height };
+      }
+    }
+  }
+
+  const commentMatch = html.match(/flash_width:\s*(\d+)[^\d]+flash_height:\s*(\d+)/i);
+  if (commentMatch) {
+    const width = Number(commentMatch[1]);
+    const height = Number(commentMatch[2]);
+    if (width > 0 && height > 0) {
+      return { width, height };
     }
   }
 
