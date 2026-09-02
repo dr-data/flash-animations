@@ -1,6 +1,19 @@
 (() => {
   "use strict";
 
+  function playerUrl(simulation) {
+    const url = new URL("player.html", window.location.href);
+    url.searchParams.set("src", simulation.path);
+    url.searchParams.set("title", simulation.name);
+    if (simulation.width) {
+      url.searchParams.set("w", String(simulation.width));
+    }
+    if (simulation.height) {
+      url.searchParams.set("h", String(simulation.height));
+    }
+    return url.pathname + url.search;
+  }
+
   const catalogUrl = new URL("catalog.json", window.location.href);
   const list = document.querySelector("#projectList");
   const search = document.querySelector("#search");
@@ -47,11 +60,8 @@
       for (const simulation of project.simulations) {
         const item = document.createElement("li");
         const link = document.createElement("a");
-        const playerUrl = new URL("player.html", window.location.href);
-        playerUrl.searchParams.set("src", simulation.path);
-        playerUrl.searchParams.set("title", simulation.name);
-        link.href = playerUrl.pathname + playerUrl.search;
-        link.innerHTML = `<strong>${simulation.name}</strong><span>Open interactive SWF</span>`;
+        link.href = playerUrl(simulation);
+        link.innerHTML = `<strong>${simulation.name}</strong><span>${simulation.width}×${simulation.height}</span>`;
         item.append(link);
         simList.append(item);
       }

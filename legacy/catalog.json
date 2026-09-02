@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:20:23.582Z",
+  "generatedAt": "2026-09-02T04:25:46.953Z",
   "projectCount": 194,
   "projects": [
     {
@@ -8,11 +8,15 @@
       "simulations": [
         {
           "name": "aberrationDiagram001",
-          "path": "/flashdev2/aberrationDiagram/aberrationDiagram001.swf"
+          "path": "/flashdev2/aberrationDiagram/aberrationDiagram001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "aberrationDiagram002",
-          "path": "/flashdev2/aberrationDiagram/aberrationDiagram002.swf"
+          "path": "/flashdev2/aberrationDiagram/aberrationDiagram002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -22,7 +26,9 @@
       "simulations": [
         {
           "name": "airyDisc002",
-          "path": "/flashdev2/airyDisc/airyDisc002.swf"
+          "path": "/flashdev2/airyDisc/airyDisc002.swf",
+          "width": 600,
+          "height": 400
         }
       ]
     },
@@ -32,15 +38,21 @@
       "simulations": [
         {
           "name": "altAzDemo003",
-          "path": "/flashdev2/altAzDemo/altAzDemo003.swf"
+          "path": "/flashdev2/altAzDemo/altAzDemo003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "altAzDemo005",
-          "path": "/flashdev2/altAzDemo/altAzDemo005.swf"
+          "path": "/flashdev2/altAzDemo/altAzDemo005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "altAzDemo005-B",
-          "path": "/flashdev2/altAzDemo/altAzDemo005-B.swf"
+          "path": "/flashdev2/altAzDemo/altAzDemo005-B.swf",
+          "width": 800,
+          "height": 510
         }
       ]
     },
@@ -50,7 +62,9 @@
       "simulations": [
         {
           "name": "altAzHint001",
-          "path": "/flashdev2/altAzHint/altAzHint001.swf"
+          "path": "/flashdev2/altAzHint/altAzHint001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -60,23 +74,33 @@
       "simulations": [
         {
           "name": "antipodesExplorer001",
-          "path": "/flashdev2/antipodesExplorer/antipodesExplorer001.swf"
+          "path": "/flashdev2/antipodesExplorer/antipodesExplorer001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "antipodesExplorer002",
-          "path": "/flashdev2/antipodesExplorer/antipodesExplorer002.swf"
+          "path": "/flashdev2/antipodesExplorer/antipodesExplorer002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "antipodesExplorer003",
-          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003.swf"
+          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "antipodesExplorer003-B",
-          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003-B.swf"
+          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003-B.swf",
+          "width": 760,
+          "height": 660
         },
         {
           "name": "antipodesExplorer003-C",
-          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003-C.swf"
+          "path": "/flashdev2/antipodesExplorer/antipodesExplorer003-C.swf",
+          "width": 760,
+          "height": 660
         }
       ]
     },
@@ -86,7 +110,9 @@
       "simulations": [
         {
           "name": "badStarPath001",
-          "path": "/flashdev2/badStarPath/badStarPath001.swf"
+          "path": "/flashdev2/badStarPath/badStarPath001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -96,11 +122,15 @@
       "simulations": [
         {
           "name": "badSunPath002",
-          "path": "/flashdev2/badSunPath/badSunPath002.swf"
+          "path": "/flashdev2/badSunPath/badSunPath002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "badSunPath003",
-          "path": "/flashdev2/badSunPath/badSunPath003.swf"
+          "path": "/flashdev2/badSunPath/badSunPath003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -110,19 +140,27 @@
       "simulations": [
         {
           "name": "bbExplorer025",
-          "path": "/flashdev2/bbExplorer/bbExplorer025.swf"
+          "path": "/flashdev2/bbExplorer/bbExplorer025.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "bbExplorer026",
-          "path": "/flashdev2/bbExplorer/bbExplorer026.swf"
+          "path": "/flashdev2/bbExplorer/bbExplorer026.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "bbExplorer026-B",
-          "path": "/flashdev2/bbExplorer/bbExplorer026-B.swf"
+          "path": "/flashdev2/bbExplorer/bbExplorer026-B.swf",
+          "width": 950,
+          "height": 550
         },
         {
           "name": "bbExplorer026-C",
-          "path": "/flashdev2/bbExplorer/bbExplorer026-C.swf"
+          "path": "/flashdev2/bbExplorer/bbExplorer026-C.swf",
+          "width": 950,
+          "height": 550
         }
       ]
     },
@@ -132,11 +170,15 @@
       "simulations": [
         {
           "name": "bigDipper003",
-          "path": "/flashdev2/bigDipper/bigDipper003.swf"
+          "path": "/flashdev2/bigDipper/bigDipper003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "bigDipper003-B",
-          "path": "/flashdev2/bigDipper/bigDipper003-B.swf"
+          "path": "/flashdev2/bigDipper/bigDipper003-B.swf",
+          "width": 650,
+          "height": 480
         }
       ]
     },
@@ -146,19 +188,27 @@
       "simulations": [
         {
           "name": "binSys097",
-          "path": "/flashdev2/binSys/binSys097.swf"
+          "path": "/flashdev2/binSys/binSys097.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "binSys098",
-          "path": "/flashdev2/binSys/binSys098.swf"
+          "path": "/flashdev2/binSys/binSys098.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "binSys098-B",
-          "path": "/flashdev2/binSys/binSys098-B.swf"
+          "path": "/flashdev2/binSys/binSys098-B.swf",
+          "width": 817,
+          "height": 710
         },
         {
           "name": "binSys098-C",
-          "path": "/flashdev2/binSys/binSys098-C.swf"
+          "path": "/flashdev2/binSys/binSys098-C.swf",
+          "width": 817,
+          "height": 710
         }
       ]
     },
@@ -168,7 +218,9 @@
       "simulations": [
         {
           "name": "binSysComponent005",
-          "path": "/flashdev2/binSysComponent/binSysComponent005.swf"
+          "path": "/flashdev2/binSysComponent/binSysComponent005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -178,7 +230,9 @@
       "simulations": [
         {
           "name": "bindingEnergyPlot002",
-          "path": "/flashdev2/bindingEnergyPlot/bindingEnergyPlot002.swf"
+          "path": "/flashdev2/bindingEnergyPlot/bindingEnergyPlot002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -188,7 +242,9 @@
       "simulations": [
         {
           "name": "blackbody003",
-          "path": "/flashdev2/blackbody/blackbody003.swf"
+          "path": "/flashdev2/blackbody/blackbody003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -198,43 +254,63 @@
       "simulations": [
         {
           "name": "celHorComp029",
-          "path": "/flashdev2/celHorComp/celHorComp029.swf"
+          "path": "/flashdev2/celHorComp/celHorComp029.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp032",
-          "path": "/flashdev2/celHorComp/celHorComp032.swf"
+          "path": "/flashdev2/celHorComp/celHorComp032.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp034",
-          "path": "/flashdev2/celHorComp/celHorComp034.swf"
+          "path": "/flashdev2/celHorComp/celHorComp034.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp035",
-          "path": "/flashdev2/celHorComp/celHorComp035.swf"
+          "path": "/flashdev2/celHorComp/celHorComp035.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp036",
-          "path": "/flashdev2/celHorComp/celHorComp036.swf"
+          "path": "/flashdev2/celHorComp/celHorComp036.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp037",
-          "path": "/flashdev2/celHorComp/celHorComp037.swf"
+          "path": "/flashdev2/celHorComp/celHorComp037.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp039",
-          "path": "/flashdev2/celHorComp/celHorComp039.swf"
+          "path": "/flashdev2/celHorComp/celHorComp039.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celHorComp039-B",
-          "path": "/flashdev2/celHorComp/celHorComp039-B.swf"
+          "path": "/flashdev2/celHorComp/celHorComp039-B.swf",
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp039-C",
-          "path": "/flashdev2/celHorComp/celHorComp039-C.swf"
+          "path": "/flashdev2/celHorComp/celHorComp039-C.swf",
+          "width": 900,
+          "height": 710
         },
         {
           "name": "celHorComp039-D",
-          "path": "/flashdev2/celHorComp/celHorComp039-D.swf"
+          "path": "/flashdev2/celHorComp/celHorComp039-D.swf",
+          "width": 900,
+          "height": 710
         }
       ]
     },
@@ -244,19 +320,27 @@
       "simulations": [
         {
           "name": "celestialEquatorialDemo003",
-          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo003.swf"
+          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celestialEquatorialDemo007",
-          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo007.swf"
+          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celestialEquatorialDemo008",
-          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo008.swf"
+          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celestialEquatorialDemo008-B",
-          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo008-B.swf"
+          "path": "/flashdev2/celestialEquatorialDemo/celestialEquatorialDemo008-B.swf",
+          "width": 800,
+          "height": 510
         }
       ]
     },
@@ -266,7 +350,9 @@
       "simulations": [
         {
           "name": "celestialHorizon004",
-          "path": "/flashdev2/celestialHorizon/celestialHorizon004.swf"
+          "path": "/flashdev2/celestialHorizon/celestialHorizon004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -276,11 +362,15 @@
       "simulations": [
         {
           "name": "celestial_sphere101",
-          "path": "/flashdev2/celestial_sphere/celestial_sphere101.swf"
+          "path": "/flashdev2/celestial_sphere/celestial_sphere101.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "celestial_sphere140",
-          "path": "/flashdev2/celestial_sphere/celestial_sphere140.swf"
+          "path": "/flashdev2/celestial_sphere/celestial_sphere140.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -290,19 +380,27 @@
       "simulations": [
         {
           "name": "centerOfMass006",
-          "path": "/flashdev2/centerOfMass/centerOfMass006.swf"
+          "path": "/flashdev2/centerOfMass/centerOfMass006.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "centerOfMass007",
-          "path": "/flashdev2/centerOfMass/centerOfMass007.swf"
+          "path": "/flashdev2/centerOfMass/centerOfMass007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "centerOfMass008",
-          "path": "/flashdev2/centerOfMass/centerOfMass008.swf"
+          "path": "/flashdev2/centerOfMass/centerOfMass008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "centerOfMass009",
-          "path": "/flashdev2/centerOfMass/centerOfMass009.swf"
+          "path": "/flashdev2/centerOfMass/centerOfMass009.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -312,19 +410,27 @@
       "simulations": [
         {
           "name": "clusterFittingExplorer007",
-          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer007.swf"
+          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "clusterFittingExplorer008",
-          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer008.swf"
+          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "clusterFittingExplorer009",
-          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer009.swf"
+          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer009.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "clusterFittingExplorer009-B",
-          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer009-B.swf"
+          "path": "/flashdev2/clusterFittingExplorer/clusterFittingExplorer009-B.swf",
+          "width": 800,
+          "height": 550
         }
       ]
     },
@@ -334,7 +440,9 @@
       "simulations": [
         {
           "name": "colorTempGradient001",
-          "path": "/flashdev2/colorTempGradient/colorTempGradient001.swf"
+          "path": "/flashdev2/colorTempGradient/colorTempGradient001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -344,19 +452,27 @@
       "simulations": [
         {
           "name": "configurationsSimulator043",
-          "path": "/flashdev2/configurationsSimulator/configurationsSimulator043.swf"
+          "path": "/flashdev2/configurationsSimulator/configurationsSimulator043.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "configurationsSimulator044",
-          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044.swf"
+          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "configurationsSimulator044-B",
-          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044-B.swf"
+          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044-B.swf",
+          "width": 850,
+          "height": 680
         },
         {
           "name": "configurationsSimulator044-C",
-          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044-C.swf"
+          "path": "/flashdev2/configurationsSimulator/configurationsSimulator044-C.swf",
+          "width": 850,
+          "height": 680
         }
       ]
     },
@@ -366,7 +482,9 @@
       "simulations": [
         {
           "name": "constellationActivity001",
-          "path": "/flashdev2/constellationActivity/constellationActivity001.swf"
+          "path": "/flashdev2/constellationActivity/constellationActivity001.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -376,11 +494,15 @@
       "simulations": [
         {
           "name": "curvedText002",
-          "path": "/flashdev2/curvedText/curvedText002.swf"
+          "path": "/flashdev2/curvedText/curvedText002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "curvedText003",
-          "path": "/flashdev2/curvedText/curvedText003.swf"
+          "path": "/flashdev2/curvedText/curvedText003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -390,23 +512,33 @@
       "simulations": [
         {
           "name": "daylightHoursExplorer002",
-          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer002.swf"
+          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "daylightHoursExplorer005",
-          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer005.swf"
+          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "daylightHoursExplorer008",
-          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008.swf"
+          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "daylightHoursExplorer008-B",
-          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008-B.swf"
+          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008-B.swf",
+          "width": 930,
+          "height": 510
         },
         {
           "name": "daylightHoursExplorer008-C",
-          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008-C.swf"
+          "path": "/flashdev2/daylightHoursExplorer/daylightHoursExplorer008-C.swf",
+          "width": 930,
+          "height": 510
         }
       ]
     },
@@ -416,7 +548,9 @@
       "simulations": [
         {
           "name": "declination_ranges002",
-          "path": "/flashdev2/declination_ranges/declination_ranges002.swf"
+          "path": "/flashdev2/declination_ranges/declination_ranges002.swf",
+          "width": 400,
+          "height": 500
         }
       ]
     },
@@ -426,7 +560,9 @@
       "simulations": [
         {
           "name": "demoCelestialSphere001",
-          "path": "/flashdev2/demoCelestialSphere/demoCelestialSphere001.swf"
+          "path": "/flashdev2/demoCelestialSphere/demoCelestialSphere001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -436,7 +572,9 @@
       "simulations": [
         {
           "name": "demoHorizonDiagram001",
-          "path": "/flashdev2/demoHorizonDiagram/demoHorizonDiagram001.swf"
+          "path": "/flashdev2/demoHorizonDiagram/demoHorizonDiagram001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -446,15 +584,21 @@
       "simulations": [
         {
           "name": "dipperClock005",
-          "path": "/flashdev2/dipperClock/dipperClock005.swf"
+          "path": "/flashdev2/dipperClock/dipperClock005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "dipperClock005-B",
-          "path": "/flashdev2/dipperClock/dipperClock005-B.swf"
+          "path": "/flashdev2/dipperClock/dipperClock005-B.swf",
+          "width": 850,
+          "height": 340
         },
         {
           "name": "dipperClock005-C",
-          "path": "/flashdev2/dipperClock/dipperClock005-C.swf"
+          "path": "/flashdev2/dipperClock/dipperClock005-C.swf",
+          "width": 850,
+          "height": 340
         }
       ]
     },
@@ -464,7 +608,9 @@
       "simulations": [
         {
           "name": "displayText008",
-          "path": "/flashdev2/displayText/displayText008.swf"
+          "path": "/flashdev2/displayText/displayText008.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -474,11 +620,15 @@
       "simulations": [
         {
           "name": "diurnalMotion003",
-          "path": "/flashdev2/diurnalMotion/diurnalMotion003.swf"
+          "path": "/flashdev2/diurnalMotion/diurnalMotion003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "diurnalMotion004",
-          "path": "/flashdev2/diurnalMotion/diurnalMotion004.swf"
+          "path": "/flashdev2/diurnalMotion/diurnalMotion004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -488,7 +638,9 @@
       "simulations": [
         {
           "name": "dopplerShiftComponent001",
-          "path": "/flashdev2/dopplerShiftComponent/dopplerShiftComponent001.swf"
+          "path": "/flashdev2/dopplerShiftComponent/dopplerShiftComponent001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -498,7 +650,9 @@
       "simulations": [
         {
           "name": "dopplerShiftDemo004",
-          "path": "/flashdev2/dopplerShiftDemo/dopplerShiftDemo004.swf"
+          "path": "/flashdev2/dopplerShiftDemo/dopplerShiftDemo004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -508,43 +662,63 @@
       "simulations": [
         {
           "name": "circles",
-          "path": "/flashdev2/dopplerShiftDemo2/old/circles.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/circles.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "dopplerShift",
-          "path": "/flashdev2/dopplerShiftDemo2/dopplerShift.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/dopplerShift.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "dopplerShiftDemo2001",
-          "path": "/flashdev2/dopplerShiftDemo2/old/dopplerShiftDemo2001.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/dopplerShiftDemo2001.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "drag test",
-          "path": "/flashdev2/dopplerShiftDemo2/old/drag test.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/drag test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "paths editing",
-          "path": "/flashdev2/dopplerShiftDemo2/old/paths editing.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/paths editing.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "plog test",
-          "path": "/flashdev2/dopplerShiftDemo2/old/plog test.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/plog test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simple",
-          "path": "/flashdev2/dopplerShiftDemo2/old/simple.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/simple.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "sinetest",
-          "path": "/flashdev2/dopplerShiftDemo2/old/sinetest.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/sinetest.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "timing test",
-          "path": "/flashdev2/dopplerShiftDemo2/old/timing test.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/timing test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "wave source test",
-          "path": "/flashdev2/dopplerShiftDemo2/old/wave source test.swf"
+          "path": "/flashdev2/dopplerShiftDemo2/old/wave source test.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -554,19 +728,27 @@
       "simulations": [
         {
           "name": "draggableSunDemo016",
-          "path": "/flashdev2/draggableSunDemo/draggableSunDemo016.swf"
+          "path": "/flashdev2/draggableSunDemo/draggableSunDemo016.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "draggableSunDemo018",
-          "path": "/flashdev2/draggableSunDemo/draggableSunDemo018.swf"
+          "path": "/flashdev2/draggableSunDemo/draggableSunDemo018.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "draggableSunDemo019",
-          "path": "/flashdev2/draggableSunDemo/draggableSunDemo019.swf"
+          "path": "/flashdev2/draggableSunDemo/draggableSunDemo019.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "draggableSunDemo024",
-          "path": "/flashdev2/draggableSunDemo/draggableSunDemo024.swf"
+          "path": "/flashdev2/draggableSunDemo/draggableSunDemo024.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -576,7 +758,9 @@
       "simulations": [
         {
           "name": "drawArc002",
-          "path": "/flashdev2/drawArc/drawArc002.swf"
+          "path": "/flashdev2/drawArc/drawArc002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -586,7 +770,9 @@
       "simulations": [
         {
           "name": "drawDashedLine001",
-          "path": "/flashdev2/drawDashedLine/drawDashedLine001.swf"
+          "path": "/flashdev2/drawDashedLine/drawDashedLine001.swf",
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -596,7 +782,9 @@
       "simulations": [
         {
           "name": "drawPhaseDisc001",
-          "path": "/flashdev2/drawPhaseDisc/drawPhaseDisc001.swf"
+          "path": "/flashdev2/drawPhaseDisc/drawPhaseDisc001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -606,7 +794,9 @@
       "simulations": [
         {
           "name": "drawPhaseDiscAS3001",
-          "path": "/flashdev2/drawPhaseDiscAS3/drawPhaseDiscAS3001.swf"
+          "path": "/flashdev2/drawPhaseDiscAS3/drawPhaseDiscAS3001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -616,7 +806,9 @@
       "simulations": [
         {
           "name": "duellingGrids002",
-          "path": "/flashdev2/duellingGrids/duellingGrids002.swf"
+          "path": "/flashdev2/duellingGrids/duellingGrids002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -626,15 +818,21 @@
       "simulations": [
         {
           "name": "earthOrbitPlot-B",
-          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot-B.swf"
+          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot-B.swf",
+          "width": 730,
+          "height": 550
         },
         {
           "name": "earthOrbitPlot001",
-          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot001.swf"
+          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "earthOrbitPlot002",
-          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot002.swf"
+          "path": "/flashdev2/earthOrbitPlot/earthOrbitPlot002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -644,11 +842,15 @@
       "simulations": [
         {
           "name": "earthTiltDemo005",
-          "path": "/flashdev2/earthTiltDemo/earthTiltDemo005.swf"
+          "path": "/flashdev2/earthTiltDemo/earthTiltDemo005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "earthTiltDemo006",
-          "path": "/flashdev2/earthTiltDemo/earthTiltDemo006.swf"
+          "path": "/flashdev2/earthTiltDemo/earthTiltDemo006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -658,15 +860,21 @@
       "simulations": [
         {
           "name": "eclipse_table",
-          "path": "/flashdev2/eclipse_table/eclipse_table.swf"
+          "path": "/flashdev2/eclipse_table/eclipse_table.swf",
+          "width": 700,
+          "height": 550
         },
         {
           "name": "eclipse_table010",
-          "path": "/flashdev2/eclipse_table/eclipse_table010.swf"
+          "path": "/flashdev2/eclipse_table/eclipse_table010.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "eclipse_table010-B",
-          "path": "/flashdev2/eclipse_table/eclipse_table010-B.swf"
+          "path": "/flashdev2/eclipse_table/eclipse_table010-B.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -676,23 +884,33 @@
       "simulations": [
         {
           "name": "eclipticSimulator024",
-          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024.swf"
+          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "eclipticSimulator024-B",
-          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-B.swf"
+          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-B.swf",
+          "width": 970,
+          "height": 710
         },
         {
           "name": "eclipticSimulator024-C",
-          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-C.swf"
+          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-C.swf",
+          "width": 970,
+          "height": 710
         },
         {
           "name": "eclipticSimulator024-D",
-          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-D.swf"
+          "path": "/flashdev2/eclipticSimulator/eclipticSimulator024-D.swf",
+          "width": 970,
+          "height": 710
         },
         {
           "name": "eclipticSimulator025",
-          "path": "/flashdev2/eclipticSimulator/eclipticSimulator025.swf"
+          "path": "/flashdev2/eclipticSimulator/eclipticSimulator025.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -702,7 +920,9 @@
       "simulations": [
         {
           "name": "eduBeamSpread001",
-          "path": "/flashdev2/eduBeamSpread/eduBeamSpread001.swf"
+          "path": "/flashdev2/eduBeamSpread/eduBeamSpread001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -712,7 +932,9 @@
       "simulations": [
         {
           "name": "eduDecRanges001",
-          "path": "/flashdev2/eduDecRanges/eduDecRanges001.swf"
+          "path": "/flashdev2/eduDecRanges/eduDecRanges001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -722,19 +944,27 @@
       "simulations": [
         {
           "name": "distributionViewer",
-          "path": "/flashdev2/eduDistribution/distributionViewer.swf"
+          "path": "/flashdev2/eduDistribution/distributionViewer.swf",
+          "width": 600,
+          "height": 400
         },
         {
           "name": "distributionViewer2",
-          "path": "/flashdev2/eduDistribution/distributionViewer2.swf"
+          "path": "/flashdev2/eduDistribution/distributionViewer2.swf",
+          "width": 600,
+          "height": 600
         },
         {
           "name": "eduDistribution001",
-          "path": "/flashdev2/eduDistribution/eduDistribution001.swf"
+          "path": "/flashdev2/eduDistribution/eduDistribution001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "eduDistribution002",
-          "path": "/flashdev2/eduDistribution/eduDistribution002.swf"
+          "path": "/flashdev2/eduDistribution/eduDistribution002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -744,7 +974,9 @@
       "simulations": [
         {
           "name": "eduEnergyLevels003",
-          "path": "/flashdev2/eduEnergyLevels/eduEnergyLevels003.swf"
+          "path": "/flashdev2/eduEnergyLevels/eduEnergyLevels003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -754,7 +986,9 @@
       "simulations": [
         {
           "name": "eduHRDiagram006",
-          "path": "/flashdev2/eduHRDiagram/eduHRDiagram006.swf"
+          "path": "/flashdev2/eduHRDiagram/eduHRDiagram006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -764,15 +998,21 @@
       "simulations": [
         {
           "name": "eduMap001",
-          "path": "/flashdev2/eduMap/eduMap001.swf"
+          "path": "/flashdev2/eduMap/eduMap001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "eduMap002",
-          "path": "/flashdev2/eduMap/eduMap002.swf"
+          "path": "/flashdev2/eduMap/eduMap002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "eduMap003",
-          "path": "/flashdev2/eduMap/eduMap003.swf"
+          "path": "/flashdev2/eduMap/eduMap003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -782,19 +1022,27 @@
       "simulations": [
         {
           "name": "eduMBD_check",
-          "path": "/flashdev2/eduMBD/eduMBD_check.swf"
+          "path": "/flashdev2/eduMBD/eduMBD_check.swf",
+          "width": 1000,
+          "height": 800
         },
         {
           "name": "eduMBD_checker",
-          "path": "/flashdev2/eduMBD/eduMBD_checker.swf"
+          "path": "/flashdev2/eduMBD/eduMBD_checker.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "eduMBD_editor",
-          "path": "/flashdev2/eduMBD/eduMBD_editor.swf"
+          "path": "/flashdev2/eduMBD/eduMBD_editor.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "eduMBD004",
-          "path": "/flashdev2/eduMBD/eduMBD004.swf"
+          "path": "/flashdev2/eduMBD/eduMBD004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -804,7 +1052,9 @@
       "simulations": [
         {
           "name": "eduSideBeamView001",
-          "path": "/flashdev2/eduSideBeamView/eduSideBeamView001.swf"
+          "path": "/flashdev2/eduSideBeamView/eduSideBeamView001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -814,7 +1064,9 @@
       "simulations": [
         {
           "name": "eduSkyMotion002",
-          "path": "/flashdev2/eduSkyMotion/eduSkyMotion002.swf"
+          "path": "/flashdev2/eduSkyMotion/eduSkyMotion002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -824,11 +1076,15 @@
       "simulations": [
         {
           "name": "ellipseDemo004",
-          "path": "/flashdev2/ellipseDemo/ellipseDemo004.swf"
+          "path": "/flashdev2/ellipseDemo/ellipseDemo004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "ellipseDemo005",
-          "path": "/flashdev2/ellipseDemo/ellipseDemo005.swf"
+          "path": "/flashdev2/ellipseDemo/ellipseDemo005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -838,7 +1094,9 @@
       "simulations": [
         {
           "name": "ellipseDemoWithSweeps002",
-          "path": "/flashdev2/ellipseDemoWithSweeps/ellipseDemoWithSweeps002.swf"
+          "path": "/flashdev2/ellipseDemoWithSweeps/ellipseDemoWithSweeps002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -848,7 +1106,9 @@
       "simulations": [
         {
           "name": "elongationComponent006",
-          "path": "/flashdev2/elongationComponent/elongationComponent006.swf"
+          "path": "/flashdev2/elongationComponent/elongationComponent006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -858,7 +1118,9 @@
       "simulations": [
         {
           "name": "errorFunction001",
-          "path": "/flashdev2/errorFunction/errorFunction001.swf"
+          "path": "/flashdev2/errorFunction/errorFunction001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -868,7 +1130,9 @@
       "simulations": [
         {
           "name": "evolutionTest001",
-          "path": "/flashdev2/evolutionTest/evolutionTest001.swf"
+          "path": "/flashdev2/evolutionTest/evolutionTest001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -878,11 +1142,15 @@
       "simulations": [
         {
           "name": "exoplanetComboDiagram001",
-          "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram001.swf"
+          "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "exoplanetComboDiagram004",
-          "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram004.swf"
+          "path": "/flashdev2/exoplanetComboDiagram/exoplanetComboDiagram004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -892,7 +1160,9 @@
       "simulations": [
         {
           "name": "exoplanetOrbitDiagram007",
-          "path": "/flashdev2/exoplanetOrbitDiagram/exoplanetOrbitDiagram007.swf"
+          "path": "/flashdev2/exoplanetOrbitDiagram/exoplanetOrbitDiagram007.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -902,11 +1172,15 @@
       "simulations": [
         {
           "name": "fallingSnow",
-          "path": "/flashdev2/fallingSnow/fallingSnow.swf"
+          "path": "/flashdev2/fallingSnow/fallingSnow.swf",
+          "width": 600,
+          "height": 500
         },
         {
           "name": "fallingSnow001",
-          "path": "/flashdev2/fallingSnow/fallingSnow001.swf"
+          "path": "/flashdev2/fallingSnow/fallingSnow001.swf",
+          "width": 600,
+          "height": 240
         }
       ]
     },
@@ -916,7 +1190,9 @@
       "simulations": [
         {
           "name": "figureEight001",
-          "path": "/flashdev2/figureEight/figureEight001.swf"
+          "path": "/flashdev2/figureEight/figureEight001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -926,11 +1202,15 @@
       "simulations": [
         {
           "name": "filters035",
-          "path": "/flashdev2/filters/filters035.swf"
+          "path": "/flashdev2/filters/filters035.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "filters035-B",
-          "path": "/flashdev2/filters/filters035-B.swf"
+          "path": "/flashdev2/filters/filters035-B.swf",
+          "width": 980,
+          "height": 710
         }
       ]
     },
@@ -940,7 +1220,9 @@
       "simulations": [
         {
           "name": "flashlightAndPaper003",
-          "path": "/flashdev2/flashlightAndPaper/flashlightAndPaper003.swf"
+          "path": "/flashdev2/flashlightAndPaper/flashlightAndPaper003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -950,11 +1232,15 @@
       "simulations": [
         {
           "name": "flatMapComponent005",
-          "path": "/flashdev2/flatMapComponent/flatMapComponent005.swf"
+          "path": "/flashdev2/flatMapComponent/flatMapComponent005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "flatMapComponent007",
-          "path": "/flashdev2/flatMapComponent/flatMapComponent007.swf"
+          "path": "/flashdev2/flatMapComponent/flatMapComponent007.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -964,11 +1250,15 @@
       "simulations": [
         {
           "name": "flatSkyView003",
-          "path": "/flashdev2/flatSkyView/flatSkyView003.swf"
+          "path": "/flashdev2/flatSkyView/flatSkyView003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "flatSkyView004",
-          "path": "/flashdev2/flatSkyView/flatSkyView004.swf"
+          "path": "/flashdev2/flatSkyView/flatSkyView004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -978,7 +1268,9 @@
       "simulations": [
         {
           "name": "fluxCube001",
-          "path": "/flashdev2/fluxCube/fluxCube001.swf"
+          "path": "/flashdev2/fluxCube/fluxCube001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -988,11 +1280,15 @@
       "simulations": [
         {
           "name": "formationTemps002",
-          "path": "/flashdev2/formationTemps/formationTemps002.swf"
+          "path": "/flashdev2/formationTemps/formationTemps002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "formationTemps002-B",
-          "path": "/flashdev2/formationTemps/formationTemps002-B.swf"
+          "path": "/flashdev2/formationTemps/formationTemps002-B.swf",
+          "width": 760,
+          "height": 560
         }
       ]
     },
@@ -1002,7 +1298,9 @@
       "simulations": [
         {
           "name": "fullMoonDec001",
-          "path": "/flashdev2/fullMoonDec/fullMoonDec001.swf"
+          "path": "/flashdev2/fullMoonDec/fullMoonDec001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1012,11 +1310,15 @@
       "simulations": [
         {
           "name": "galacticDopplerShift004",
-          "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift004.swf"
+          "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "galacticDopplerShift006",
-          "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift006.swf"
+          "path": "/flashdev2/galacticDopplerShift/galacticDopplerShift006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1026,11 +1328,15 @@
       "simulations": [
         {
           "name": "galacticRedshift",
-          "path": "/flashdev2/galacticRedshift/galacticRedshift.swf"
+          "path": "/flashdev2/galacticRedshift/galacticRedshift.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "galacticRedshift003",
-          "path": "/flashdev2/galacticRedshift/galacticRedshift003.swf"
+          "path": "/flashdev2/galacticRedshift/galacticRedshift003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1040,11 +1346,15 @@
       "simulations": [
         {
           "name": "gasRetentionPlot015",
-          "path": "/flashdev2/gasRetentionPlot/gasRetentionPlot015.swf"
+          "path": "/flashdev2/gasRetentionPlot/gasRetentionPlot015.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gasRetentionPlot015-B",
-          "path": "/flashdev2/gasRetentionPlot/gasRetentionPlot015-B.swf"
+          "path": "/flashdev2/gasRetentionPlot/gasRetentionPlot015-B.swf",
+          "width": 880,
+          "height": 660
         }
       ]
     },
@@ -1054,11 +1364,15 @@
       "simulations": [
         {
           "name": "gasRetentionSimulator022",
-          "path": "/flashdev2/gasRetentionSimulator/gasRetentionSimulator022.swf"
+          "path": "/flashdev2/gasRetentionSimulator/gasRetentionSimulator022.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gasRetentionSimulator022-B",
-          "path": "/flashdev2/gasRetentionSimulator/gasRetentionSimulator022-B.swf"
+          "path": "/flashdev2/gasRetentionSimulator/gasRetentionSimulator022-B.swf",
+          "width": 900,
+          "height": 650
         }
       ]
     },
@@ -1068,7 +1382,9 @@
       "simulations": [
         {
           "name": "gaussianRandomNumber001",
-          "path": "/flashdev2/gaussianRandomNumber/gaussianRandomNumber001.swf"
+          "path": "/flashdev2/gaussianRandomNumber/gaussianRandomNumber001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1078,11 +1394,15 @@
       "simulations": [
         {
           "name": "globeComponent002",
-          "path": "/flashdev2/globeComponent/globeComponent002.swf"
+          "path": "/flashdev2/globeComponent/globeComponent002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "globeComponent027",
-          "path": "/flashdev2/globeComponent/globeComponent027.swf"
+          "path": "/flashdev2/globeComponent/globeComponent027.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1092,7 +1412,9 @@
       "simulations": [
         {
           "name": "globeDiscAreas004",
-          "path": "/flashdev2/globeDiscAreas/globeDiscAreas004.swf"
+          "path": "/flashdev2/globeDiscAreas/globeDiscAreas004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1102,7 +1424,9 @@
       "simulations": [
         {
           "name": "graticuleComponent001",
-          "path": "/flashdev2/graticuleComponent/graticuleComponent001.swf"
+          "path": "/flashdev2/graticuleComponent/graticuleComponent001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1112,19 +1436,27 @@
       "simulations": [
         {
           "name": "gravAlgebra004",
-          "path": "/flashdev2/gravAlgebra/gravAlgebra004.swf"
+          "path": "/flashdev2/gravAlgebra/gravAlgebra004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gravAlgebra005",
-          "path": "/flashdev2/gravAlgebra/gravAlgebra005.swf"
+          "path": "/flashdev2/gravAlgebra/gravAlgebra005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gravAlgebra006",
-          "path": "/flashdev2/gravAlgebra/gravAlgebra006.swf"
+          "path": "/flashdev2/gravAlgebra/gravAlgebra006.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gravAlgebra006-B",
-          "path": "/flashdev2/gravAlgebra/gravAlgebra006-B.swf"
+          "path": "/flashdev2/gravAlgebra/gravAlgebra006-B.swf",
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -1134,19 +1466,27 @@
       "simulations": [
         {
           "name": "gravCalc009",
-          "path": "/flashdev2/gravCalc/gravCalc009.swf"
+          "path": "/flashdev2/gravCalc/gravCalc009.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravCalc010",
-          "path": "/flashdev2/gravCalc/gravCalc010.swf"
+          "path": "/flashdev2/gravCalc/gravCalc010.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravCalc012",
-          "path": "/flashdev2/gravCalc/gravCalc012.swf"
+          "path": "/flashdev2/gravCalc/gravCalc012.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravCalc012-B",
-          "path": "/flashdev2/gravCalc/gravCalc012-B.swf"
+          "path": "/flashdev2/gravCalc/gravCalc012-B.swf",
+          "width": 960,
+          "height": 720
         }
       ]
     },
@@ -1156,19 +1496,27 @@
       "simulations": [
         {
           "name": "gravSim004",
-          "path": "/flashdev2/gravSim/gravSim004.swf"
+          "path": "/flashdev2/gravSim/gravSim004.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravSim005",
-          "path": "/flashdev2/gravSim/gravSim005.swf"
+          "path": "/flashdev2/gravSim/gravSim005.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravSim006",
-          "path": "/flashdev2/gravSim/gravSim006.swf"
+          "path": "/flashdev2/gravSim/gravSim006.swf",
+          "width": 960,
+          "height": 720
         },
         {
           "name": "gravSim008",
-          "path": "/flashdev2/gravSim/gravSim008.swf"
+          "path": "/flashdev2/gravSim/gravSim008.swf",
+          "width": 960,
+          "height": 720
         }
       ]
     },
@@ -1178,31 +1526,45 @@
       "simulations": [
         {
           "name": "gridTest001",
-          "path": "/flashdev2/gridTest/gridTest001.swf"
+          "path": "/flashdev2/gridTest/gridTest001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest004",
-          "path": "/flashdev2/gridTest/gridTest004.swf"
+          "path": "/flashdev2/gridTest/gridTest004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest005",
-          "path": "/flashdev2/gridTest/gridTest005.swf"
+          "path": "/flashdev2/gridTest/gridTest005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest006",
-          "path": "/flashdev2/gridTest/gridTest006.swf"
+          "path": "/flashdev2/gridTest/gridTest006.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest009",
-          "path": "/flashdev2/gridTest/gridTest009.swf"
+          "path": "/flashdev2/gridTest/gridTest009.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest010",
-          "path": "/flashdev2/gridTest/gridTest010.swf"
+          "path": "/flashdev2/gridTest/gridTest010.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "gridTest011",
-          "path": "/flashdev2/gridTest/gridTest011.swf"
+          "path": "/flashdev2/gridTest/gridTest011.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1212,15 +1574,21 @@
       "simulations": [
         {
           "name": "heliacalRisingSimulator015",
-          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015.swf"
+          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "heliacalRisingSimulator015-B",
-          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015-B.swf"
+          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015-B.swf",
+          "width": 825,
+          "height": 580
         },
         {
           "name": "heliacalRisingSimulator015-C",
-          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015-C.swf"
+          "path": "/flashdev2/heliacalRisingSimulator/heliacalRisingSimulator015-C.swf",
+          "width": 825,
+          "height": 580
         }
       ]
     },
@@ -1230,7 +1598,9 @@
       "simulations": [
         {
           "name": "heliacalRisingTimeline005",
-          "path": "/flashdev2/heliacalRisingTimeline/heliacalRisingTimeline005.swf"
+          "path": "/flashdev2/heliacalRisingTimeline/heliacalRisingTimeline005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1240,7 +1610,9 @@
       "simulations": [
         {
           "name": "hrDiagramComponent043",
-          "path": "/flashdev2/hrDiagramComponent/hrDiagramComponent043.swf"
+          "path": "/flashdev2/hrDiagramComponent/hrDiagramComponent043.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1250,11 +1622,15 @@
       "simulations": [
         {
           "name": "hrExplorer013",
-          "path": "/flashdev2/hrExplorer/hrExplorer013.swf"
+          "path": "/flashdev2/hrExplorer/hrExplorer013.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "hrExplorer013-B",
-          "path": "/flashdev2/hrExplorer/hrExplorer013-B.swf"
+          "path": "/flashdev2/hrExplorer/hrExplorer013-B.swf",
+          "width": 805,
+          "height": 665
         }
       ]
     },
@@ -1264,11 +1640,15 @@
       "simulations": [
         {
           "name": "hydrogenAtom033",
-          "path": "/flashdev2/hydrogenAtom/hydrogenAtom033.swf"
+          "path": "/flashdev2/hydrogenAtom/hydrogenAtom033.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "hydrogenAtom033-B",
-          "path": "/flashdev2/hydrogenAtom/hydrogenAtom033-B.swf"
+          "path": "/flashdev2/hydrogenAtom/hydrogenAtom033-B.swf",
+          "width": 950,
+          "height": 640
         }
       ]
     },
@@ -1278,23 +1658,33 @@
       "simulations": [
         {
           "name": "interfaceComponents006",
-          "path": "/flashdev2/interfaceComponents/interfaceComponents006.swf"
+          "path": "/flashdev2/interfaceComponents/interfaceComponents006.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interfaceComponents007",
-          "path": "/flashdev2/interfaceComponents/interfaceComponents007.swf"
+          "path": "/flashdev2/interfaceComponents/interfaceComponents007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interfaceComponents008",
-          "path": "/flashdev2/interfaceComponents/interfaceComponents008.swf"
+          "path": "/flashdev2/interfaceComponents/interfaceComponents008.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "panelBackgroundLivePreview001",
-          "path": "/flashdev2/interfaceComponents/panelBackgroundLivePreview001.swf"
+          "path": "/flashdev2/interfaceComponents/panelBackgroundLivePreview001.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "titleBarLivePreview001",
-          "path": "/flashdev2/interfaceComponents/titleBarLivePreview001.swf"
+          "path": "/flashdev2/interfaceComponents/titleBarLivePreview001.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -1304,7 +1694,9 @@
       "simulations": [
         {
           "name": "inverseSquareShells003",
-          "path": "/flashdev2/inverseSquareShells/inverseSquareShells003.swf"
+          "path": "/flashdev2/inverseSquareShells/inverseSquareShells003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1314,19 +1706,27 @@
       "simulations": [
         {
           "name": "kepler088",
-          "path": "/flashdev2/kepler/kepler088.swf"
+          "path": "/flashdev2/kepler/kepler088.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "kepler089",
-          "path": "/flashdev2/kepler/kepler089.swf"
+          "path": "/flashdev2/kepler/kepler089.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "kepler089-B",
-          "path": "/flashdev2/kepler/kepler089-B.swf"
+          "path": "/flashdev2/kepler/kepler089-B.swf",
+          "width": 900,
+          "height": 710
         },
         {
           "name": "kepler089-C",
-          "path": "/flashdev2/kepler/kepler089-C.swf"
+          "path": "/flashdev2/kepler/kepler089-C.swf",
+          "width": 900,
+          "height": 710
         }
       ]
     },
@@ -1336,7 +1736,9 @@
       "simulations": [
         {
           "name": "kepler2ndDemo001",
-          "path": "/flashdev2/kepler2ndDemo/kepler2ndDemo001.swf"
+          "path": "/flashdev2/kepler2ndDemo/kepler2ndDemo001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1346,7 +1748,9 @@
       "simulations": [
         {
           "name": "latAngleDemo001",
-          "path": "/flashdev2/latAngleDemo/latAngleDemo001.swf"
+          "path": "/flashdev2/latAngleDemo/latAngleDemo001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1356,7 +1760,9 @@
       "simulations": [
         {
           "name": "latDemo005",
-          "path": "/flashdev2/latDemo/latDemo005.swf"
+          "path": "/flashdev2/latDemo/latDemo005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1366,7 +1772,9 @@
       "simulations": [
         {
           "name": "latLongHint001",
-          "path": "/flashdev2/latLongHint/latLongHint001.swf"
+          "path": "/flashdev2/latLongHint/latLongHint001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1376,7 +1784,9 @@
       "simulations": [
         {
           "name": "lightcurveComponent001",
-          "path": "/flashdev2/lightcurveComponent/lightcurveComponent001.swf"
+          "path": "/flashdev2/lightcurveComponent/lightcurveComponent001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1386,7 +1796,9 @@
       "simulations": [
         {
           "name": "lightcurveComponentII006",
-          "path": "/flashdev2/lightcurveComponentII/lightcurveComponentII006.swf"
+          "path": "/flashdev2/lightcurveComponentII/lightcurveComponentII006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1396,7 +1808,9 @@
       "simulations": [
         {
           "name": "lissajous001",
-          "path": "/flashdev2/lissajous/lissajous001.swf"
+          "path": "/flashdev2/lissajous/lissajous001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1406,7 +1820,9 @@
       "simulations": [
         {
           "name": "logHistogram002",
-          "path": "/flashdev2/logHistogram/logHistogram002.swf"
+          "path": "/flashdev2/logHistogram/logHistogram002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1416,7 +1832,9 @@
       "simulations": [
         {
           "name": "longLatDemo014",
-          "path": "/flashdev2/longLatDemo/longLatDemo014.swf"
+          "path": "/flashdev2/longLatDemo/longLatDemo014.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1426,11 +1844,15 @@
       "simulations": [
         {
           "name": "lookBackTimeSim008",
-          "path": "/flashdev2/lookBackTimeSim/lookBackTimeSim008.swf"
+          "path": "/flashdev2/lookBackTimeSim/lookBackTimeSim008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lookBackTimeSim008-B",
-          "path": "/flashdev2/lookBackTimeSim/lookBackTimeSim008-B.swf"
+          "path": "/flashdev2/lookBackTimeSim/lookBackTimeSim008-B.swf",
+          "width": 620,
+          "height": 400
         }
       ]
     },
@@ -1440,11 +1862,15 @@
       "simulations": [
         {
           "name": "lumFunc003",
-          "path": "/flashdev2/lumFunc/lumFunc003.swf"
+          "path": "/flashdev2/lumFunc/lumFunc003.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "lumFunc004",
-          "path": "/flashdev2/lumFunc/lumFunc004.swf"
+          "path": "/flashdev2/lumFunc/lumFunc004.swf",
+          "width": 550,
+          "height": 400
         }
       ]
     },
@@ -1454,35 +1880,51 @@
       "simulations": [
         {
           "name": "lunar_applet033",
-          "path": "/flashdev2/lunar_applet/lunar_applet033.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet033.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lunar_applet035",
-          "path": "/flashdev2/lunar_applet/lunar_applet035.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet035.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lunar_applet037",
-          "path": "/flashdev2/lunar_applet/lunar_applet037.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet037.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lunar_applet038",
-          "path": "/flashdev2/lunar_applet/lunar_applet038.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet038.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "lunar_applet040",
-          "path": "/flashdev2/lunar_applet/lunar_applet040.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet040.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lunar_applet040-B",
-          "path": "/flashdev2/lunar_applet/lunar_applet040-B.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet040-B.swf",
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet040-C",
-          "path": "/flashdev2/lunar_applet/lunar_applet040-C.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet040-C.swf",
+          "width": 840,
+          "height": 680
         },
         {
           "name": "lunar_applet040-D",
-          "path": "/flashdev2/lunar_applet/lunar_applet040-D.swf"
+          "path": "/flashdev2/lunar_applet/lunar_applet040-D.swf",
+          "width": 840,
+          "height": 680
         }
       ]
     },
@@ -1492,11 +1934,15 @@
       "simulations": [
         {
           "name": "lunarPhaseQuizzer003",
-          "path": "/flashdev2/lunarPhaseQuizzer/lunarPhaseQuizzer003.swf"
+          "path": "/flashdev2/lunarPhaseQuizzer/lunarPhaseQuizzer003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "lunarPhaseQuizzer003-B",
-          "path": "/flashdev2/lunarPhaseQuizzer/lunarPhaseQuizzer003-B.swf"
+          "path": "/flashdev2/lunarPhaseQuizzer/lunarPhaseQuizzer003-B.swf",
+          "width": 840,
+          "height": 600
         }
       ]
     },
@@ -1506,7 +1952,9 @@
       "simulations": [
         {
           "name": "mapExplorer010",
-          "path": "/flashdev2/mapExplorer/mapExplorer010.swf"
+          "path": "/flashdev2/mapExplorer/mapExplorer010.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1516,7 +1964,9 @@
       "simulations": [
         {
           "name": "marsOrbit005",
-          "path": "/flashdev2/marsOrbit/marsOrbit005.swf"
+          "path": "/flashdev2/marsOrbit/marsOrbit005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1526,7 +1976,9 @@
       "simulations": [
         {
           "name": "maxwellPlotComponent004",
-          "path": "/flashdev2/maxwellPlotComponent/maxwellPlotComponent004.swf"
+          "path": "/flashdev2/maxwellPlotComponent/maxwellPlotComponent004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1536,7 +1988,9 @@
       "simulations": [
         {
           "name": "MBDDemo004",
-          "path": "/flashdev2/MBDDemo/MBDDemo004.swf"
+          "path": "/flashdev2/MBDDemo/MBDDemo004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1546,11 +2000,15 @@
       "simulations": [
         {
           "name": "meltedNail008",
-          "path": "/flashdev2/meltedNail/meltedNail008.swf"
+          "path": "/flashdev2/meltedNail/meltedNail008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "meltedNail008-B",
-          "path": "/flashdev2/meltedNail/meltedNail008-B.swf"
+          "path": "/flashdev2/meltedNail/meltedNail008-B.swf",
+          "width": 800,
+          "height": 340
         }
       ]
     },
@@ -1560,11 +2018,15 @@
       "simulations": [
         {
           "name": "milkyWayHabitability001",
-          "path": "/flashdev2/milkyWayHabitability/milkyWayHabitability001.swf"
+          "path": "/flashdev2/milkyWayHabitability/milkyWayHabitability001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "milkyWayHabitability001-B",
-          "path": "/flashdev2/milkyWayHabitability/milkyWayHabitability001-B.swf"
+          "path": "/flashdev2/milkyWayHabitability/milkyWayHabitability001-B.swf",
+          "width": 860,
+          "height": 700
         }
       ]
     },
@@ -1574,19 +2036,27 @@
       "simulations": [
         {
           "name": "milkyWayRotationalVelocity004",
-          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity004.swf"
+          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "milkyWayRotationalVelocity005",
-          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005.swf"
+          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "milkyWayRotationalVelocity005-B",
-          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005-B.swf"
+          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005-B.swf",
+          "width": 921,
+          "height": 394
         },
         {
           "name": "milkyWayRotationalVelocity005-C",
-          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005-C.swf"
+          "path": "/flashdev2/milkyWayRotationalVelocity/milkyWayRotationalVelocity005-C.swf",
+          "width": 921,
+          "height": 394
         }
       ]
     },
@@ -1596,7 +2066,9 @@
       "simulations": [
         {
           "name": "miniRaySimulator001",
-          "path": "/flashdev2/miniRaySimulator/miniRaySimulator001.swf"
+          "path": "/flashdev2/miniRaySimulator/miniRaySimulator001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1606,7 +2078,9 @@
       "simulations": [
         {
           "name": "miniSystem004",
-          "path": "/flashdev2/miniSystem/miniSystem004.swf"
+          "path": "/flashdev2/miniSystem/miniSystem004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1616,35 +2090,51 @@
       "simulations": [
         {
           "name": "moonBisectorDemo",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo.swf",
+          "width": 900,
+          "height": 644
         },
         {
           "name": "moonBisectorDemo001",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo001.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonBisectorDemo002",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo002.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonBisectorDemo003",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo003.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonBisectorDemo004",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo004.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonBisectorDemo005",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo005.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonBisectorDemo005-B",
-          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo005-B.swf"
+          "path": "/flashdev2/moonBisectorDemo/moonBisectorDemo005-B.swf",
+          "width": 900,
+          "height": 644
         },
         {
           "name": "planerotatortest",
-          "path": "/flashdev2/moonBisectorDemo/planerotatortest.swf"
+          "path": "/flashdev2/moonBisectorDemo/planerotatortest.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -1654,19 +2144,27 @@
       "simulations": [
         {
           "name": "moonInSky001",
-          "path": "/flashdev2/moonInSky/moonInSky001.swf"
+          "path": "/flashdev2/moonInSky/moonInSky001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonInSky002",
-          "path": "/flashdev2/moonInSky/moonInSky002.swf"
+          "path": "/flashdev2/moonInSky/moonInSky002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "moonInSkyCore",
-          "path": "/flashdev2/moonInSky/moonInSkyCore.swf"
+          "path": "/flashdev2/moonInSky/moonInSkyCore.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "moonInSkyCore002",
-          "path": "/flashdev2/moonInSky/moonInSkyCore002.swf"
+          "path": "/flashdev2/moonInSky/moonInSkyCore002.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -1676,7 +2174,9 @@
       "simulations": [
         {
           "name": "moon_inclination009",
-          "path": "/flashdev2/moon_inclination/moon_inclination009.swf"
+          "path": "/flashdev2/moon_inclination/moon_inclination009.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1686,7 +2186,9 @@
       "simulations": [
         {
           "name": "moonPhases003",
-          "path": "/flashdev2/moonPhases/moonPhases003.swf"
+          "path": "/flashdev2/moonPhases/moonPhases003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1696,7 +2198,9 @@
       "simulations": [
         {
           "name": "numberFunctions002",
-          "path": "/flashdev2/numberFunctions/numberFunctions002.swf"
+          "path": "/flashdev2/numberFunctions/numberFunctions002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1706,7 +2210,9 @@
       "simulations": [
         {
           "name": "obliquity004",
-          "path": "/flashdev2/obliquity/obliquity004.swf"
+          "path": "/flashdev2/obliquity/obliquity004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1716,7 +2222,9 @@
       "simulations": [
         {
           "name": "parallaxDemo001",
-          "path": "/flashdev2/parallaxDemo/parallaxDemo001.swf"
+          "path": "/flashdev2/parallaxDemo/parallaxDemo001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1726,11 +2234,15 @@
       "simulations": [
         {
           "name": "parallaxDiagram001",
-          "path": "/flashdev2/parallaxDiagram/parallaxDiagram001.swf"
+          "path": "/flashdev2/parallaxDiagram/parallaxDiagram001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxDiagram001-B",
-          "path": "/flashdev2/parallaxDiagram/parallaxDiagram001-B.swf"
+          "path": "/flashdev2/parallaxDiagram/parallaxDiagram001-B.swf",
+          "width": 720,
+          "height": 380
         }
       ]
     },
@@ -1740,31 +2252,45 @@
       "simulations": [
         {
           "name": "parallaxExplorer004",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer004.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer005",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer005.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer006",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer006.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer006.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer007",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer007.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer008",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer008.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer009",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer009.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer009.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "parallaxExplorer009-B",
-          "path": "/flashdev2/parallaxExplorer/parallaxExplorer009-B.swf"
+          "path": "/flashdev2/parallaxExplorer/parallaxExplorer009-B.swf",
+          "width": 800,
+          "height": 605
         }
       ]
     },
@@ -1774,15 +2300,21 @@
       "simulations": [
         {
           "name": "epicycleEquivalence",
-          "path": "/flashdev2/pathTracer/epicycleEquivalence.swf"
+          "path": "/flashdev2/pathTracer/epicycleEquivalence.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "pathTracer005",
-          "path": "/flashdev2/pathTracer/pathTracer005.swf"
+          "path": "/flashdev2/pathTracer/pathTracer005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "pathTracer005-B",
-          "path": "/flashdev2/pathTracer/pathTracer005-B.swf"
+          "path": "/flashdev2/pathTracer/pathTracer005-B.swf",
+          "width": 875,
+          "height": 600
         }
       ]
     },
@@ -1792,11 +2324,15 @@
       "simulations": [
         {
           "name": "phaseDemonstrator005",
-          "path": "/flashdev2/phaseDemonstrator/phaseDemonstrator005.swf"
+          "path": "/flashdev2/phaseDemonstrator/phaseDemonstrator005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "phaseDemonstrator005-B",
-          "path": "/flashdev2/phaseDemonstrator/phaseDemonstrator005-B.swf"
+          "path": "/flashdev2/phaseDemonstrator/phaseDemonstrator005-B.swf",
+          "width": 745,
+          "height": 545
         }
       ]
     },
@@ -1806,7 +2342,9 @@
       "simulations": [
         {
           "name": "planeRotator001",
-          "path": "/flashdev2/planeRotator/planeRotator001.swf"
+          "path": "/flashdev2/planeRotator/planeRotator001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1816,19 +2354,27 @@
       "simulations": [
         {
           "name": "positionsDemonstrator010",
-          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator010.swf"
+          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator010.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "positionsDemonstrator011",
-          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011.swf"
+          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "positionsDemonstrator011-B",
-          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011-B.swf"
+          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011-B.swf",
+          "width": 750,
+          "height": 465
         },
         {
           "name": "positionsDemonstrator011-C",
-          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011-C.swf"
+          "path": "/flashdev2/positionsDemonstrator/positionsDemonstrator011-C.swf",
+          "width": 750,
+          "height": 465
         }
       ]
     },
@@ -1838,15 +2384,21 @@
       "simulations": [
         {
           "name": "precessingGlobe012",
-          "path": "/flashdev2/precessingGlobe/precessingGlobe012.swf"
+          "path": "/flashdev2/precessingGlobe/precessingGlobe012.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "precessingGlobe013",
-          "path": "/flashdev2/precessingGlobe/precessingGlobe013.swf"
+          "path": "/flashdev2/precessingGlobe/precessingGlobe013.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "precessingGlobe014",
-          "path": "/flashdev2/precessingGlobe/precessingGlobe014.swf"
+          "path": "/flashdev2/precessingGlobe/precessingGlobe014.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1856,11 +2408,15 @@
       "simulations": [
         {
           "name": "projectile016",
-          "path": "/flashdev2/projectile/projectile016.swf"
+          "path": "/flashdev2/projectile/projectile016.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "projectile016-B",
-          "path": "/flashdev2/projectile/projectile016-B.swf"
+          "path": "/flashdev2/projectile/projectile016-B.swf",
+          "width": 680,
+          "height": 445
         }
       ]
     },
@@ -1870,15 +2426,21 @@
       "simulations": [
         {
           "name": "ptolemaic023",
-          "path": "/flashdev2/ptolemaic/ptolemaic023.swf"
+          "path": "/flashdev2/ptolemaic/ptolemaic023.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "ptolemaic023-B",
-          "path": "/flashdev2/ptolemaic/ptolemaic023-B.swf"
+          "path": "/flashdev2/ptolemaic/ptolemaic023-B.swf",
+          "width": 940,
+          "height": 710
         },
         {
           "name": "ptolemaic023-C",
-          "path": "/flashdev2/ptolemaic/ptolemaic023-C.swf"
+          "path": "/flashdev2/ptolemaic/ptolemaic023-C.swf",
+          "width": 940,
+          "height": 710
         }
       ]
     },
@@ -1888,11 +2450,15 @@
       "simulations": [
         {
           "name": "ptolemaicVenus004",
-          "path": "/flashdev2/ptolemaicVenus/ptolemaicVenus004.swf"
+          "path": "/flashdev2/ptolemaicVenus/ptolemaicVenus004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "ptolemaicVenus004-B",
-          "path": "/flashdev2/ptolemaicVenus/ptolemaicVenus004-B.swf"
+          "path": "/flashdev2/ptolemaicVenus/ptolemaicVenus004-B.swf",
+          "width": 900,
+          "height": 660
         }
       ]
     },
@@ -1902,23 +2468,33 @@
       "simulations": [
         {
           "name": "pulsarPeriodSim001",
-          "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSim001.swf"
+          "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSim001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "pulsarPeriodSim001",
-          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSim001.swf"
+          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSim001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "pulsarPeriodSim001-B",
-          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSim001-B.swf"
+          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSim001-B.swf",
+          "width": 900,
+          "height": 600
         },
         {
           "name": "pulsarPeriodSimulator",
-          "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSimulator.swf"
+          "path": "/flashdev2/pulsarPeriodSim/old/pulsarPeriodSimulator.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "pulsarPeriodSimulator",
-          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSimulator.swf"
+          "path": "/flashdev2/pulsarPeriodSim/pulsarPeriodSimulator.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1928,7 +2504,9 @@
       "simulations": [
         {
           "name": "pulsarPlanet001",
-          "path": "/flashdev2/pulsarPlanet/pulsarPlanet001.swf"
+          "path": "/flashdev2/pulsarPlanet/pulsarPlanet001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1938,7 +2516,9 @@
       "simulations": [
         {
           "name": "raDecDemo007",
-          "path": "/flashdev2/raDecDemo/raDecDemo007.swf"
+          "path": "/flashdev2/raDecDemo/raDecDemo007.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1948,11 +2528,15 @@
       "simulations": [
         {
           "name": "raDecSimple001",
-          "path": "/flashdev2/raDecSimple/raDecSimple001.swf"
+          "path": "/flashdev2/raDecSimple/raDecSimple001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "raDecSimple002",
-          "path": "/flashdev2/raDecSimple/raDecSimple002.swf"
+          "path": "/flashdev2/raDecSimple/raDecSimple002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1962,7 +2546,9 @@
       "simulations": [
         {
           "name": "radialVelocityComponent010",
-          "path": "/flashdev2/radialVelocityComponent/radialVelocityComponent010.swf"
+          "path": "/flashdev2/radialVelocityComponent/radialVelocityComponent010.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1972,7 +2558,9 @@
       "simulations": [
         {
           "name": "radialVelocityDemo003",
-          "path": "/flashdev2/radialVelocityDemo/radialVelocityDemo003.swf"
+          "path": "/flashdev2/radialVelocityDemo/radialVelocityDemo003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -1982,23 +2570,33 @@
       "simulations": [
         {
           "name": "radialVelocitySimulator011",
-          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator011.swf"
+          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator011.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "radialVelocitySimulator012",
-          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012.swf"
+          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "radialVelocitySimulator012-B",
-          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-B.swf"
+          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-B.swf",
+          "width": 920,
+          "height": 680
         },
         {
           "name": "radialVelocitySimulator012-C",
-          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-C.swf"
+          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-C.swf",
+          "width": 920,
+          "height": 680
         },
         {
           "name": "radialVelocitySimulator012-D",
-          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-D.swf"
+          "path": "/flashdev2/radialVelocitySimulator/radialVelocitySimulator012-D.swf",
+          "width": 920,
+          "height": 680
         }
       ]
     },
@@ -2008,7 +2606,9 @@
       "simulations": [
         {
           "name": "randomMaxwell003",
-          "path": "/flashdev2/randomMaxwell/randomMaxwell003.swf"
+          "path": "/flashdev2/randomMaxwell/randomMaxwell003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2018,7 +2618,9 @@
       "simulations": [
         {
           "name": "rotatingSphere001",
-          "path": "/flashdev2/rotatingSphere/rotatingSphere001.swf"
+          "path": "/flashdev2/rotatingSphere/rotatingSphere001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2028,7 +2630,9 @@
       "simulations": [
         {
           "name": "sci_not002",
-          "path": "/flashdev2/sci_not/sci_not002.swf"
+          "path": "/flashdev2/sci_not/sci_not002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2038,7 +2642,9 @@
       "simulations": [
         {
           "name": "sci_notNumber003",
-          "path": "/flashdev2/sci_notNumber/sci_notNumber003.swf"
+          "path": "/flashdev2/sci_notNumber/sci_notNumber003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2048,19 +2654,27 @@
       "simulations": [
         {
           "name": "seasonSim003",
-          "path": "/tt/seasonSim/seasonSim003.swf"
+          "path": "/tt/seasonSim/seasonSim003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "seasonSim004",
-          "path": "/tt/seasonSim/seasonSim004.swf"
+          "path": "/tt/seasonSim/seasonSim004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "seasonSim005",
-          "path": "/tt/seasonSim/seasonSim005.swf"
+          "path": "/tt/seasonSim/seasonSim005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "seasonSim005-B",
-          "path": "/tt/seasonSim/seasonSim005-B.swf"
+          "path": "/tt/seasonSim/seasonSim005-B.swf",
+          "width": 640,
+          "height": 400
         }
       ]
     },
@@ -2070,7 +2684,9 @@
       "simulations": [
         {
           "name": "sexagesimalCalculator001",
-          "path": "/flashdev2/sexagesimalCalculator/sexagesimalCalculator001.swf"
+          "path": "/flashdev2/sexagesimalCalculator/sexagesimalCalculator001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2080,7 +2696,9 @@
       "simulations": [
         {
           "name": "shadowCaster001",
-          "path": "/flashdev2/shadowCaster/shadowCaster001.swf"
+          "path": "/flashdev2/shadowCaster/shadowCaster001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2090,7 +2708,9 @@
       "simulations": [
         {
           "name": "shadows003",
-          "path": "/flashdev2/shadows/shadows003.swf"
+          "path": "/flashdev2/shadows/shadows003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2100,15 +2720,21 @@
       "simulations": [
         {
           "name": "shoreDemo001",
-          "path": "/flashdev2/shoreDemo/shoreDemo001.swf"
+          "path": "/flashdev2/shoreDemo/shoreDemo001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "shoreDemo004",
-          "path": "/flashdev2/shoreDemo/shoreDemo004.swf"
+          "path": "/flashdev2/shoreDemo/shoreDemo004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "shoreDemo005",
-          "path": "/flashdev2/shoreDemo/shoreDemo005.swf"
+          "path": "/flashdev2/shoreDemo/shoreDemo005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2118,7 +2744,9 @@
       "simulations": [
         {
           "name": "shutterComponent009",
-          "path": "/flashdev2/shutterComponent/shutterComponent009.swf"
+          "path": "/flashdev2/shutterComponent/shutterComponent009.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2128,7 +2756,9 @@
       "simulations": [
         {
           "name": "siderealSolarTime",
-          "path": "/flashdev2/siderealSolarTime/siderealSolarTime.swf"
+          "path": "/flashdev2/siderealSolarTime/siderealSolarTime.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2138,23 +2768,33 @@
       "simulations": [
         {
           "name": "siderealTimeAndHourAngleDemo001",
-          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo001.swf"
+          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "siderealTimeAndHourAngleDemo002",
-          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo002.swf"
+          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "siderealTimeAndHourAngleDemo003",
-          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo003.swf"
+          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "siderealTimeAndHourAngleDemo004",
-          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo004.swf"
+          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "siderealTimeAndHourAngleDemo004-B",
-          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo004-B.swf"
+          "path": "/flashdev2/siderealTimeAndHourAngleDemo/siderealTimeAndHourAngleDemo004-B.swf",
+          "width": 850,
+          "height": 470
         }
       ]
     },
@@ -2164,11 +2804,15 @@
       "simulations": [
         {
           "name": "simpleBlackbody016",
-          "path": "/flashdev2/simpleBlackbody/simpleBlackbody016.swf"
+          "path": "/flashdev2/simpleBlackbody/simpleBlackbody016.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "simpleBlackbody017",
-          "path": "/flashdev2/simpleBlackbody/simpleBlackbody017.swf"
+          "path": "/flashdev2/simpleBlackbody/simpleBlackbody017.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2178,7 +2822,9 @@
       "simulations": [
         {
           "name": "simpleFlatSkyMap007",
-          "path": "/flashdev2/simpleFlatSkyMap/simpleFlatSkyMap007.swf"
+          "path": "/flashdev2/simpleFlatSkyMap/simpleFlatSkyMap007.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2188,7 +2834,9 @@
       "simulations": [
         {
           "name": "simpleSolarSystem001",
-          "path": "/flashdev2/simpleSolarSystem/simpleSolarSystem001.swf"
+          "path": "/flashdev2/simpleSolarSystem/simpleSolarSystem001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2198,7 +2846,9 @@
       "simulations": [
         {
           "name": "sinusoidComponent001",
-          "path": "/flashdev2/sinusoidComponent/sinusoidComponent001.swf"
+          "path": "/flashdev2/sinusoidComponent/sinusoidComponent001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2208,7 +2858,9 @@
       "simulations": [
         {
           "name": "sinusoidComponentII004",
-          "path": "/flashdev2/sinusoidComponentII/sinusoidComponentII004.swf"
+          "path": "/flashdev2/sinusoidComponentII/sinusoidComponentII004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2218,7 +2870,9 @@
       "simulations": [
         {
           "name": "sinusoidLightcurveQuestion001",
-          "path": "/flashdev2/sinusoidLightcurveQuestion/sinusoidLightcurveQuestion001.swf"
+          "path": "/flashdev2/sinusoidLightcurveQuestion/sinusoidLightcurveQuestion001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2228,7 +2882,9 @@
       "simulations": [
         {
           "name": "skyMap028",
-          "path": "/flashdev2/skyMap/skyMap028.swf"
+          "path": "/flashdev2/skyMap/skyMap028.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2238,11 +2894,15 @@
       "simulations": [
         {
           "name": "slider008",
-          "path": "/flashdev2/slider/slider008.swf"
+          "path": "/flashdev2/slider/slider008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "slider637",
-          "path": "/flashdev2/slider/slider637.swf"
+          "path": "/flashdev2/slider/slider637.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2252,23 +2912,33 @@
       "simulations": [
         {
           "name": "smallAngleDemo001",
-          "path": "/flashdev2/smallAngleDemo/smallAngleDemo001.swf"
+          "path": "/flashdev2/smallAngleDemo/smallAngleDemo001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "smallAngleDemo002",
-          "path": "/flashdev2/smallAngleDemo/smallAngleDemo002.swf"
+          "path": "/flashdev2/smallAngleDemo/smallAngleDemo002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "smallAngleDemo003",
-          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003.swf"
+          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "smallAngleDemo003-B",
-          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003-B.swf"
+          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003-B.swf",
+          "width": 960,
+          "height": 380
         },
         {
           "name": "smallAngleDemo003-C",
-          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003-C.swf"
+          "path": "/flashdev2/smallAngleDemo/smallAngleDemo003-C.swf",
+          "width": 960,
+          "height": 380
         }
       ]
     },
@@ -2278,15 +2948,21 @@
       "simulations": [
         {
           "name": "snCurveExplorer005",
-          "path": "/flashdev2/snCurveExplorer/snCurveExplorer005.swf"
+          "path": "/flashdev2/snCurveExplorer/snCurveExplorer005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "snCurveExplorer007",
-          "path": "/flashdev2/snCurveExplorer/snCurveExplorer007.swf"
+          "path": "/flashdev2/snCurveExplorer/snCurveExplorer007.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "snCurveExplorer007-B",
-          "path": "/flashdev2/snCurveExplorer/snCurveExplorer007-B.swf"
+          "path": "/flashdev2/snCurveExplorer/snCurveExplorer007-B.swf",
+          "width": 650,
+          "height": 620
         }
       ]
     },
@@ -2296,7 +2972,9 @@
       "simulations": [
         {
           "name": "snTest002",
-          "path": "/flashdev2/snTest/snTest002.swf"
+          "path": "/flashdev2/snTest/snTest002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2306,7 +2984,9 @@
       "simulations": [
         {
           "name": "solarNeighborhood008",
-          "path": "/flashdev2/solarNeighborhood/solarNeighborhood008.swf"
+          "path": "/flashdev2/solarNeighborhood/solarNeighborhood008.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2316,15 +2996,21 @@
       "simulations": [
         {
           "name": "solarSystemProperties002",
-          "path": "/flashdev2/solarSystemProperties/solarSystemProperties002.swf"
+          "path": "/flashdev2/solarSystemProperties/solarSystemProperties002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "solarSystemProperties003",
-          "path": "/flashdev2/solarSystemProperties/solarSystemProperties003.swf"
+          "path": "/flashdev2/solarSystemProperties/solarSystemProperties003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "solarSystemProperties003-B",
-          "path": "/flashdev2/solarSystemProperties/solarSystemProperties003-B.swf"
+          "path": "/flashdev2/solarSystemProperties/solarSystemProperties003-B.swf",
+          "width": 700,
+          "height": 605
         }
       ]
     },
@@ -2334,7 +3020,9 @@
       "simulations": [
         {
           "name": "spectralTypeHistogram002",
-          "path": "/flashdev2/spectralTypeHistogram/spectralTypeHistogram002.swf"
+          "path": "/flashdev2/spectralTypeHistogram/spectralTypeHistogram002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2344,19 +3032,27 @@
       "simulations": [
         {
           "name": "spectroParallax011",
-          "path": "/flashdev2/spectroParallax/spectroParallax011.swf"
+          "path": "/flashdev2/spectroParallax/spectroParallax011.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "spectroParallax012",
-          "path": "/flashdev2/spectroParallax/spectroParallax012.swf"
+          "path": "/flashdev2/spectroParallax/spectroParallax012.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "spectroParallax013",
-          "path": "/flashdev2/spectroParallax/spectroParallax013.swf"
+          "path": "/flashdev2/spectroParallax/spectroParallax013.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "spectroParallax013-B",
-          "path": "/flashdev2/spectroParallax/spectroParallax013-B.swf"
+          "path": "/flashdev2/spectroParallax/spectroParallax013-B.swf",
+          "width": 870,
+          "height": 600
         }
       ]
     },
@@ -2366,7 +3062,9 @@
       "simulations": [
         {
           "name": "starField",
-          "path": "/flashdev2/starField/starField.swf"
+          "path": "/flashdev2/starField/starField.swf",
+          "width": 1000,
+          "height": 750
         }
       ]
     },
@@ -2376,7 +3074,9 @@
       "simulations": [
         {
           "name": "starFieldComponent002",
-          "path": "/flashdev2/starFieldComponent/starFieldComponent002.swf"
+          "path": "/flashdev2/starFieldComponent/starFieldComponent002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2386,7 +3086,9 @@
       "simulations": [
         {
           "name": "starFieldTest001",
-          "path": "/flashdev2/starFieldTest/starFieldTest001.swf"
+          "path": "/flashdev2/starFieldTest/starFieldTest001.swf",
+          "width": 800,
+          "height": 600
         }
       ]
     },
@@ -2396,23 +3098,33 @@
       "simulations": [
         {
           "name": "slider637",
-          "path": "/flashdev2/stellarHabitableZone/old/slider637.swf"
+          "path": "/flashdev2/stellarHabitableZone/old/slider637.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "stellarHabitableZone",
-          "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone.swf"
+          "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "stellarHabitableZone",
-          "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone.swf"
+          "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "stellarHabitableZone001",
-          "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone001.swf"
+          "path": "/flashdev2/stellarHabitableZone/old/stellarHabitableZone001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "stellarHabitableZone004",
-          "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone004.swf"
+          "path": "/flashdev2/stellarHabitableZone/stellarHabitableZone004.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2422,7 +3134,9 @@
       "simulations": [
         {
           "name": "sunAndMoonDiagram003",
-          "path": "/flashdev2/sunAndMoonDiagram/sunAndMoonDiagram003.swf"
+          "path": "/flashdev2/sunAndMoonDiagram/sunAndMoonDiagram003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2432,7 +3146,9 @@
       "simulations": [
         {
           "name": "sunMoonHorizonDiagram002",
-          "path": "/flashdev2/sunMoonHorizonDiagram/sunMoonHorizonDiagram002.swf"
+          "path": "/flashdev2/sunMoonHorizonDiagram/sunMoonHorizonDiagram002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2442,7 +3158,9 @@
       "simulations": [
         {
           "name": "sunMotionQuestionChecker002",
-          "path": "/flashdev2/sunMotionQuestionChecker/sunMotionQuestionChecker002.swf"
+          "path": "/flashdev2/sunMotionQuestionChecker/sunMotionQuestionChecker002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2452,19 +3170,27 @@
       "simulations": [
         {
           "name": "sunMotions066",
-          "path": "/flashdev2/sunMotions/sunMotions066.swf"
+          "path": "/flashdev2/sunMotions/sunMotions066.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "sunMotions068",
-          "path": "/flashdev2/sunMotions/sunMotions068.swf"
+          "path": "/flashdev2/sunMotions/sunMotions068.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "sunMotions068-B",
-          "path": "/flashdev2/sunMotions/sunMotions068-B.swf"
+          "path": "/flashdev2/sunMotions/sunMotions068-B.swf",
+          "width": 950,
+          "height": 680
         },
         {
           "name": "sunMotions068-C",
-          "path": "/flashdev2/sunMotions/sunMotions068-C.swf"
+          "path": "/flashdev2/sunMotions/sunMotions068-C.swf",
+          "width": 950,
+          "height": 680
         }
       ]
     },
@@ -2474,7 +3200,9 @@
       "simulations": [
         {
           "name": "sunPathComponent002",
-          "path": "/flashdev2/sunPathComponent/sunPathComponent002.swf"
+          "path": "/flashdev2/sunPathComponent/sunPathComponent002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2484,7 +3212,9 @@
       "simulations": [
         {
           "name": "sunPathDiagram003",
-          "path": "/flashdev2/sunPathDiagram/sunPathDiagram003.swf"
+          "path": "/flashdev2/sunPathDiagram/sunPathDiagram003.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2494,7 +3224,9 @@
       "simulations": [
         {
           "name": "sunPathDiagramII001",
-          "path": "/flashdev2/sunPathDiagramII/sunPathDiagramII001.swf"
+          "path": "/flashdev2/sunPathDiagramII/sunPathDiagramII001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2504,7 +3236,9 @@
       "simulations": [
         {
           "name": "sunPathSimulator",
-          "path": "/flashdev2/sunPathSimulator/sunPathSimulator.swf"
+          "path": "/flashdev2/sunPathSimulator/sunPathSimulator.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -2514,7 +3248,9 @@
       "simulations": [
         {
           "name": "sunPaths001",
-          "path": "/flashdev2/sunPaths/sunPaths001.swf"
+          "path": "/flashdev2/sunPaths/sunPaths001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2524,7 +3260,9 @@
       "simulations": [
         {
           "name": "sunPropertyCurves001",
-          "path": "/flashdev2/sunPropertyCurves/sunPropertyCurves001.swf"
+          "path": "/flashdev2/sunPropertyCurves/sunPropertyCurves001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2534,7 +3272,9 @@
       "simulations": [
         {
           "name": "sunbeamComponent001",
-          "path": "/flashdev2/sunbeamComponent/sunbeamComponent001.swf"
+          "path": "/flashdev2/sunbeamComponent/sunbeamComponent001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2544,7 +3284,9 @@
       "simulations": [
         {
           "name": "terminator001",
-          "path": "/flashdev2/terminator/terminator001.swf"
+          "path": "/flashdev2/terminator/terminator001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2554,7 +3296,9 @@
       "simulations": [
         {
           "name": "thermalGasComponent012",
-          "path": "/flashdev2/thermalGasComponent/thermalGasComponent012.swf"
+          "path": "/flashdev2/thermalGasComponent/thermalGasComponent012.swf",
+          "width": 900,
+          "height": 650
         }
       ]
     },
@@ -2564,7 +3308,9 @@
       "simulations": [
         {
           "name": "threeBeamViews001",
-          "path": "/flashdev2/threeBeamViews/threeBeamViews001.swf"
+          "path": "/flashdev2/threeBeamViews/threeBeamViews001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2574,11 +3320,15 @@
       "simulations": [
         {
           "name": "threeViewsSpectra004",
-          "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra004.swf"
+          "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "threeViewsSpectra005",
-          "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra005.swf"
+          "path": "/flashdev2/threeViewsSpectra/threeViewsSpectra005.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2588,7 +3338,9 @@
       "simulations": [
         {
           "name": "toFixed002",
-          "path": "/flashdev2/toFixed/toFixed002.swf"
+          "path": "/flashdev2/toFixed/toFixed002.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2598,7 +3350,9 @@
       "simulations": [
         {
           "name": "tracksTest001",
-          "path": "/flashdev2/tracksTest/tracksTest001.swf"
+          "path": "/flashdev2/tracksTest/tracksTest001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2608,31 +3362,45 @@
       "simulations": [
         {
           "name": "transitImages",
-          "path": "/flashdev2/transitMovie/transitImages.swf"
+          "path": "/flashdev2/transitMovie/transitImages.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "transitMovie037",
-          "path": "/flashdev2/transitMovie/transitMovie037.swf"
+          "path": "/flashdev2/transitMovie/transitMovie037.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "transitMovie038",
-          "path": "/flashdev2/transitMovie/transitMovie038.swf"
+          "path": "/flashdev2/transitMovie/transitMovie038.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "transitMovie039",
-          "path": "/flashdev2/transitMovie/transitMovie039.swf"
+          "path": "/flashdev2/transitMovie/transitMovie039.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "transitMovie040",
-          "path": "/flashdev2/transitMovie/transitMovie040.swf"
+          "path": "/flashdev2/transitMovie/transitMovie040.swf",
+          "width": 820,
+          "height": 600
         },
         {
           "name": "transitMovie041",
-          "path": "/flashdev2/transitMovie/transitMovie041.swf"
+          "path": "/flashdev2/transitMovie/transitMovie041.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "transitMovie041-B",
-          "path": "/flashdev2/transitMovie/transitMovie041-B.swf"
+          "path": "/flashdev2/transitMovie/transitMovie041-B.swf",
+          "width": 820,
+          "height": 600
         }
       ]
     },
@@ -2642,19 +3410,27 @@
       "simulations": [
         {
           "name": "transitSimulator017",
-          "path": "/flashdev2/transitSimulator/transitSimulator017.swf"
+          "path": "/flashdev2/transitSimulator/transitSimulator017.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "transitSimulator017-B",
-          "path": "/flashdev2/transitSimulator/transitSimulator017-B.swf"
+          "path": "/flashdev2/transitSimulator/transitSimulator017-B.swf",
+          "width": 920,
+          "height": 650
         },
         {
           "name": "transitSimulator017-C",
-          "path": "/flashdev2/transitSimulator/transitSimulator017-C.swf"
+          "path": "/flashdev2/transitSimulator/transitSimulator017-C.swf",
+          "width": 920,
+          "height": 650
         },
         {
           "name": "transitSimulator017-D",
-          "path": "/flashdev2/transitSimulator/transitSimulator017-D.swf"
+          "path": "/flashdev2/transitSimulator/transitSimulator017-D.swf",
+          "width": 920,
+          "height": 650
         }
       ]
     },
@@ -2664,39 +3440,57 @@
       "simulations": [
         {
           "name": "typeAndTemp001",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp001.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp001.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp002",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp002.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp004",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp004.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp005",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp005.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp008",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp008.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp008.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp009",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp009.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp009.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp010",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp010.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp010.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp012",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp012.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp012.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "typeAndTemp014",
-          "path": "/flashdev2/typeAndTemp/typeAndTemp014.swf"
+          "path": "/flashdev2/typeAndTemp/typeAndTemp014.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2706,7 +3500,9 @@
       "simulations": [
         {
           "name": "ubv011",
-          "path": "/flashdev2/ubv/ubv011.swf"
+          "path": "/flashdev2/ubv/ubv011.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2716,7 +3512,9 @@
       "simulations": [
         {
           "name": "variableStarCurves010",
-          "path": "/flashdev2/variableStarCurves/variableStarCurves010.swf"
+          "path": "/flashdev2/variableStarCurves/variableStarCurves010.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2726,135 +3524,201 @@
       "simulations": [
         {
           "name": "binSysLightcurve",
-          "path": "/flashdev2/variableStarLabs/binSysLightcurve.swf"
+          "path": "/flashdev2/variableStarLabs/binSysLightcurve.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "binSysLightcurve",
-          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/binSysLightcurve.swf"
+          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/binSysLightcurve.swf",
+          "width": 550,
+          "height": 400
         },
         {
           "name": "blinkComparatorSimulator",
-          "path": "/flashdev2/variableStarLabs/blinkComparatorSimulator.swf"
+          "path": "/flashdev2/variableStarLabs/blinkComparatorSimulator.swf",
+          "width": 800,
+          "height": 400
         },
         {
           "name": "CCDMiniSim",
-          "path": "/flashdev2/variableStarLabs/CCDMiniSim.swf"
+          "path": "/flashdev2/variableStarLabs/CCDMiniSim.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "CCDMiniSim-B",
-          "path": "/flashdev2/variableStarLabs/CCDMiniSim-B.swf"
+          "path": "/flashdev2/variableStarLabs/CCDMiniSim-B.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "CCDMiniSim2",
-          "path": "/flashdev2/variableStarLabs/CCDMiniSim2.swf"
+          "path": "/flashdev2/variableStarLabs/CCDMiniSim2.swf",
+          "width": 900,
+          "height": 400
         },
         {
           "name": "CCDMiniSim3",
-          "path": "/flashdev2/variableStarLabs/CCDMiniSim3.swf"
+          "path": "/flashdev2/variableStarLabs/CCDMiniSim3.swf",
+          "width": 400,
+          "height": 680
         },
         {
           "name": "cow 2",
-          "path": "/flashdev2/variableStarLabs/older/tests/cow 2.swf"
+          "path": "/flashdev2/variableStarLabs/older/tests/cow 2.swf",
+          "width": 800,
+          "height": 600
         },
         {
           "name": "int2",
-          "path": "/flashdev2/variableStarLabs/int2.swf"
+          "path": "/flashdev2/variableStarLabs/int2.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "interactive1",
-          "path": "/flashdev2/variableStarLabs/interactive1.swf"
+          "path": "/flashdev2/variableStarLabs/interactive1.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interactive1_test",
-          "path": "/flashdev2/variableStarLabs/interactive1_test.swf"
+          "path": "/flashdev2/variableStarLabs/interactive1_test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "interactive1b",
-          "path": "/flashdev2/variableStarLabs/interactive1b.swf"
+          "path": "/flashdev2/variableStarLabs/interactive1b.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interactive2",
-          "path": "/flashdev2/variableStarLabs/interactive2.swf"
+          "path": "/flashdev2/variableStarLabs/interactive2.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interactive3",
-          "path": "/flashdev2/variableStarLabs/interactive3.swf"
+          "path": "/flashdev2/variableStarLabs/interactive3.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "interactive3 delete",
-          "path": "/flashdev2/variableStarLabs/interactive3 delete.swf"
+          "path": "/flashdev2/variableStarLabs/interactive3 delete.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "interactive3_old",
-          "path": "/flashdev2/variableStarLabs/interactive3_old.swf"
+          "path": "/flashdev2/variableStarLabs/interactive3_old.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "pdm test",
-          "path": "/flashdev2/variableStarLabs/older/pdm test.swf"
+          "path": "/flashdev2/variableStarLabs/older/pdm test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "photometrySimulator",
-          "path": "/flashdev2/variableStarLabs/photometrySimulator.swf"
+          "path": "/flashdev2/variableStarLabs/photometrySimulator.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "registrationExample",
-          "path": "/flashdev2/variableStarLabs/registrationExample.swf"
+          "path": "/flashdev2/variableStarLabs/registrationExample.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "registrationSimulator",
-          "path": "/flashdev2/variableStarLabs/registrationSimulator.swf"
+          "path": "/flashdev2/variableStarLabs/registrationSimulator.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "starDataGen",
-          "path": "/flashdev2/variableStarLabs/older/starDataGen.swf"
+          "path": "/flashdev2/variableStarLabs/older/starDataGen.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "starField",
-          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/starField.swf"
+          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/starField.swf",
+          "width": 1000,
+          "height": 750
         },
         {
           "name": "starField",
-          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent3/StarFieldComponent/starField.swf"
+          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent3/StarFieldComponent/starField.swf",
+          "width": 1000,
+          "height": 750
         },
         {
           "name": "starField",
-          "path": "/flashdev2/variableStarLabs/older/starField old/starField.swf"
+          "path": "/flashdev2/variableStarLabs/older/starField old/starField.swf",
+          "width": 900,
+          "height": 620
         },
         {
           "name": "StarFieldAndObservationsEditor",
-          "path": "/flashdev2/variableStarLabs/StarFieldAndObservationsEditor.swf"
+          "path": "/flashdev2/variableStarLabs/StarFieldAndObservationsEditor.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "StarFieldAndObservationsEditor",
-          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/StarFieldAndObservationsEditor.swf"
+          "path": "/flashdev2/variableStarLabs/older/StarFieldComponent/StarFieldAndObservationsEditor.swf",
+          "width": 1000,
+          "height": 800
         },
         {
           "name": "starFieldEditor",
-          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/starFieldEditor.swf"
+          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/starFieldEditor.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "starFieldEditor001",
-          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/starFieldEditor001.swf"
+          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/starFieldEditor001.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "starFieldTest001",
-          "path": "/flashdev2/variableStarLabs/older/tests/starFieldTest001.swf"
+          "path": "/flashdev2/variableStarLabs/older/tests/starFieldTest001.swf",
+          "width": 800,
+          "height": 600
         },
         {
           "name": "test",
-          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/test.swf"
+          "path": "/flashdev2/variableStarLabs/older/starFieldEditor/test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "Untitled-1 ba test",
-          "path": "/flashdev2/variableStarLabs/older/tests/Untitled-1 ba test.swf"
+          "path": "/flashdev2/variableStarLabs/older/tests/Untitled-1 ba test.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "variableStarPhotometryAnalyzer",
-          "path": "/flashdev2/variableStarLabs/variableStarPhotometryAnalyzer.swf"
+          "path": "/flashdev2/variableStarLabs/variableStarPhotometryAnalyzer.swf",
+          "width": 900,
+          "height": 715
         },
         {
           "name": "xmlLoadingTest",
-          "path": "/flashdev2/variableStarLabs/older/xmlLoadingTest/xmlLoadingTest.swf"
+          "path": "/flashdev2/variableStarLabs/older/xmlLoadingTest/xmlLoadingTest.swf",
+          "width": 960,
+          "height": 600
         }
       ]
     },
@@ -2864,7 +3728,9 @@
       "simulations": [
         {
           "name": "vectorSketchpad017",
-          "path": "/flashdev2/vectorSketchpad/vectorSketchpad017.swf"
+          "path": "/flashdev2/vectorSketchpad/vectorSketchpad017.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2874,11 +3740,15 @@
       "simulations": [
         {
           "name": "venusPhases005",
-          "path": "/flashdev2/venusPhases/venusPhases005.swf"
+          "path": "/flashdev2/venusPhases/venusPhases005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "venusPhases005-B",
-          "path": "/flashdev2/venusPhases/venusPhases005-B.swf"
+          "path": "/flashdev2/venusPhases/venusPhases005-B.swf",
+          "width": 870,
+          "height": 600
         }
       ]
     },
@@ -2888,11 +3758,15 @@
       "simulations": [
         {
           "name": "wagonWheel003",
-          "path": "/tt/wagonWheel/wagonWheel003.swf"
+          "path": "/tt/wagonWheel/wagonWheel003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "wagonWheel003-B",
-          "path": "/tt/wagonWheel/wagonWheel003-B.swf"
+          "path": "/tt/wagonWheel/wagonWheel003-B.swf",
+          "width": 580,
+          "height": 470
         }
       ]
     },
@@ -2902,7 +3776,9 @@
       "simulations": [
         {
           "name": "watchDigits001",
-          "path": "/flashdev2/watchDigits/watchDigits001.swf"
+          "path": "/flashdev2/watchDigits/watchDigits001.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2912,15 +3788,21 @@
       "simulations": [
         {
           "name": "zodiac015",
-          "path": "/flashdev2/zodiac/zodiac015.swf"
+          "path": "/flashdev2/zodiac/zodiac015.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiac016",
-          "path": "/flashdev2/zodiac/zodiac016.swf"
+          "path": "/flashdev2/zodiac/zodiac016.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiac017",
-          "path": "/flashdev2/zodiac/zodiac017.swf"
+          "path": "/flashdev2/zodiac/zodiac017.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     },
@@ -2930,75 +3812,111 @@
       "simulations": [
         {
           "name": "simplified_aquarius",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_aquarius.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_aquarius.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_aries",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_aries.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_aries.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_cancer",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_cancer.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_cancer.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_capricorn",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_capricorn.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_capricorn.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_gemini",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_gemini.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_gemini.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_leo",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_leo.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_leo.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_libra",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_libra.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_libra.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_pisces",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_pisces.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_pisces.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_sagittarius",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_sagittarius.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_sagittarius.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_scorpio",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_scorpio.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_scorpio.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_taurus",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_taurus.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_taurus.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "simplified_virgo",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_virgo.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/1 - simplified flash files/simplified_virgo.swf",
+          "width": 960,
+          "height": 600
         },
         {
           "name": "zodiac graphics converter",
-          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/converter utility/zodiac graphics converter.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiac graphics conversion/converter utility/zodiac graphics converter.swf",
+          "width": 1100,
+          "height": 900
         },
         {
           "name": "zodiacSimulator002",
-          "path": "/flashdev2/zodiacSimulator/zodiacSimulator002.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiacSimulator002.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiacSimulator003",
-          "path": "/flashdev2/zodiacSimulator/zodiacSimulator003.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiacSimulator003.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiacSimulator004",
-          "path": "/flashdev2/zodiacSimulator/zodiacSimulator004.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiacSimulator004.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiacSimulator005",
-          "path": "/flashdev2/zodiacSimulator/zodiacSimulator005.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiacSimulator005.swf",
+          "width": 0,
+          "height": 0
         },
         {
           "name": "zodiacSimulator006",
-          "path": "/flashdev2/zodiacSimulator/zodiacSimulator006.swf"
+          "path": "/flashdev2/zodiacSimulator/zodiacSimulator006.swf",
+          "width": 0,
+          "height": 0
         }
       ]
     }

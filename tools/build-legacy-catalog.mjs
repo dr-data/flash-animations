@@ -6,12 +6,58 @@ const here = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(here, "..");
 const roots = ["flashdev2", "tt"];
 const outputJson = path.join(repoRoot, "legacy", "catalog.json");
+const defaultSize = { width: 960, height: 600 };
 
 function titleCase(value) {
   return value
     .replace(/([a-z])([A-Z])/g, "$1 $2")
     .replace(/[_-]+/g, " ")
     .replace(/\b\w/g, char => char.toUpperCase());
+}
+
+function parseDimensions(html) {
+  const patterns = [
+    /width="(\d+)"[^>]*height="(\d+)"/i,
+    /WIDTH="(\d+)"[^>]*HEIGHT="(\d+)"/i,
+    /flash_width:\s*(\d+)[^\d]+flash_height:\s*(\d+)/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match) {
+      return {
+        width: Number(match[1]),
+        height: Number(match[2])
+      };
+    }
+  }
+
+  return null;
+}
+
+async function dimensionsForSwf(directory, swfName) {
+  const baseName = swfName.replace(/\.swf$/i, "");
+  const candidates = [
+    `${baseName}.html`,
+    `${baseName}-B.html`,
+    `${baseName}-C.html`,
+    `${baseName}-D.html`
+  ];
+
+  for (const candidate of candidates) {
+    const absolutePath = path.join(directory, candidate);
+    try {
+      const html = await fs.readFile(absolutePath, "utf8");
+      const dimensions = parseDimensions(html);
+      if (dimensions) {
+        return dimensions;
+      }
+    } catch {
+      // Try the next wrapper file.
+    }
+  }
+
+  return defaultSize;
 }
 
 async function listSwfs(directory, relativeDirectory) {
@@ -28,9 +74,12 @@ async function listSwfs(directory, relativeDirectory) {
     }
 
     if (entry.isFile() && entry.name.toLowerCase().endsWith(".swf")) {
+      const dimensions = await dimensionsForSwf(directory, entry.name);
       swfs.push({
         name: entry.name.replace(/\.swf$/i, ""),
-        path: `/${relativePath}`
+        path: `/${relativePath}`,
+        width: dimensions.width,
+        height: dimensions.height
       });
     }
   }
