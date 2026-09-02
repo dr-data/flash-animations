@@ -1,0 +1,456 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #f5f7fb;
+  color: #172033;
+  --accent: #4059d8;
+  --accent-soft: #edf0ff;
+  --pink: #c84971;
+  --line: #dfe4ee;
+  --muted: #657184;
+  --panel: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 93% 0%, rgba(77, 99, 226, 0.11), transparent 30rem),
+    #f5f7fb;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.app-shell {
+  width: min(1240px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0 72px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: end;
+  margin-bottom: 28px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 10px;
+  color: var(--accent);
+  font-size: 0.88rem;
+  font-weight: 780;
+  text-decoration: none;
+}
+
+.back-link:hover,
+.back-link:focus-visible {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 860px;
+  margin-bottom: 0;
+  font-size: clamp(2rem, 4vw, 4rem);
+  line-height: 1;
+  letter-spacing: -0.045em;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-size: clamp(1.35rem, 2.4vw, 2rem);
+  letter-spacing: -0.025em;
+}
+
+.reset-button {
+  min-height: 44px;
+  padding: 10px 18px;
+  border: 1px solid #ccd3df;
+  border-radius: 12px;
+  background: #ffffff;
+  color: #263248;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.reset-button:hover {
+  background: #f0f3f8;
+}
+
+.reset-button:focus-visible,
+input:focus-visible,
+.draggable-object:focus-visible {
+  outline: 3px solid rgba(64, 89, 216, 0.34);
+  outline-offset: 3px;
+}
+
+.formula-card {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.8fr) minmax(380px, 1.2fr);
+  gap: 36px;
+  align-items: center;
+  padding: 26px 30px;
+  margin-bottom: 24px;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: var(--panel);
+  box-shadow: 0 18px 52px rgba(27, 39, 69, 0.06);
+}
+
+.section-kicker {
+  margin-bottom: 7px;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 820;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.formula {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 11px;
+  align-items: center;
+  min-width: 0;
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+}
+
+.formula strong {
+  color: var(--accent);
+  font-size: 1.08em;
+}
+
+.fraction {
+  display: inline-grid;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.fraction span:first-child {
+  padding: 0 7px 4px;
+  border-bottom: 2px solid currentColor;
+}
+
+.fraction span:last-child {
+  padding-top: 3px;
+}
+
+.sim-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(300px, 0.8fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.visual-panel,
+.controls-panel {
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: var(--panel);
+  box-shadow: 0 18px 52px rgba(27, 39, 69, 0.06);
+}
+
+.visual-panel {
+  overflow: hidden;
+}
+
+.visual-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: end;
+  padding: 26px 28px 14px;
+}
+
+.angle-readout {
+  flex: 0 0 auto;
+  min-width: 150px;
+  padding: 11px 14px;
+  border-radius: 14px;
+  background: var(--accent-soft);
+  text-align: right;
+}
+
+.angle-readout span {
+  display: block;
+  margin-bottom: 2px;
+  color: #536071;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.angle-readout strong {
+  color: #2e45bf;
+  font-size: 1.08rem;
+}
+
+.scene {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+  background:
+    linear-gradient(180deg, #fbfcff 0%, #fbfcff 74%, #f0f3f7 74%, #f0f3f7 100%);
+  touch-action: none;
+  user-select: none;
+}
+
+.ground {
+  stroke: #c9d0db;
+  stroke-width: 2;
+}
+
+.person-fill {
+  fill: #d8deea;
+  stroke: #6a768a;
+  stroke-width: 3;
+}
+
+.person-line {
+  fill: none;
+  stroke: #6a768a;
+  stroke-width: 7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.eye {
+  fill: #1e293b;
+}
+
+.sight-line {
+  stroke: #59667b;
+  stroke-width: 2.4;
+  stroke-dasharray: 8 7;
+}
+
+.angle-arc {
+  fill: none;
+  stroke: var(--pink);
+  stroke-width: 4;
+  stroke-linecap: round;
+}
+
+.alpha-label {
+  fill: var(--pink);
+  font-size: 28px;
+  font-weight: 760;
+}
+
+.draggable-object {
+  cursor: grab;
+}
+
+.draggable-object.is-dragging {
+  cursor: grabbing;
+}
+
+.object-highlight {
+  fill: rgba(255, 255, 255, 0.65);
+  pointer-events: none;
+}
+
+.distance-guide line {
+  stroke: #8995a8;
+  stroke-width: 2;
+}
+
+.distance-guide text {
+  fill: #5b6678;
+  font-size: 16px;
+  font-weight: 650;
+  text-anchor: middle;
+}
+
+.drag-hint {
+  margin: 0;
+  padding: 13px 28px 20px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.controls-panel {
+  padding: 26px;
+}
+
+.controls-heading {
+  margin-bottom: 28px;
+}
+
+.control-group {
+  padding: 20px 0;
+  border-top: 1px solid #e4e8ef;
+}
+
+.control-label-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 13px;
+}
+
+.control-label-row label {
+  font-weight: 780;
+}
+
+.number-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.number-wrap input {
+  width: 82px;
+  padding: 8px 9px;
+  border: 1px solid #cbd3df;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #1f2b40;
+  text-align: right;
+}
+
+.range {
+  width: 100%;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.range-scale {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4px;
+  color: #8490a2;
+  font-size: 0.76rem;
+}
+
+.explanation-card,
+.calculation-card {
+  margin-top: 20px;
+  padding: 18px;
+  border-radius: 16px;
+}
+
+.explanation-card {
+  background: #f6f7fa;
+}
+
+.explanation-card h3 {
+  margin-bottom: 9px;
+  font-size: 1rem;
+}
+
+.explanation-card p {
+  margin-bottom: 8px;
+  color: #5c687a;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.explanation-card p:last-child {
+  margin-bottom: 0;
+}
+
+.calculation-card {
+  display: grid;
+  gap: 5px;
+  background: #eef1ff;
+}
+
+.calculation-card span,
+.calculation-card small {
+  color: #59667b;
+}
+
+.calculation-card strong {
+  color: #2e45bf;
+  font-size: 1.1rem;
+}
+
+.calculation-card small {
+  line-height: 1.45;
+}
+
+.source-note {
+  max-width: 850px;
+  margin-top: 24px;
+  color: #778296;
+  font-size: 0.83rem;
+  line-height: 1.6;
+}
+
+.source-note p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 980px) {
+  .formula-card,
+  .sim-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .formula {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 680px) {
+  .app-shell {
+    width: min(100% - 20px, 1240px);
+    padding-top: 20px;
+  }
+
+  .topbar,
+  .visual-heading,
+  .control-label-row {
+    align-items: flex-start;
+  }
+
+  .topbar,
+  .visual-heading {
+    flex-direction: column;
+  }
+
+  .reset-button {
+    width: 100%;
+  }
+
+  .formula-card,
+  .controls-panel {
+    padding: 20px;
+  }
+
+  .visual-heading {
+    padding: 20px 20px 10px;
+  }
+
+  .angle-readout {
+    width: 100%;
+    text-align: left;
+  }
+
+  .drag-hint {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
